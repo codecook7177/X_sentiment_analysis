@@ -33,8 +33,3 @@ This project processes data through a custom 3-phase NLP pipeline:
 * **Data Visualization:** Matplotlib, Seaborn, WordCloud
 * **Reporting:** ReportLab, python-docx
 
-## 👥 Contributors
-* **Mannem Sri Harshitha** (23BCB7177)
-* **Manasa Santosh** (23BCB7139)
-* **K Vijay** (23BCB7243)
-* **University:** VIT-AP University
