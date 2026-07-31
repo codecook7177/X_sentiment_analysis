@@ -1,0 +1,501 @@
+id,platform,date,username,text,target_group,sentiment,topic,likes,retweets,replies
+1,twitter,2026-03-22,user_anon_0001,Community in Charlotte rallied around the vandalized Malaysian-owned bakery. GoFundMe raised $1000K in 24 hours.,Asian,positive,community_solidarity,24418,4790,2639
+2,twitter,2026-02-08,user_anon_0002,"'Do you worship cows?' asked my 15-year-old's classmate. The parents clearly teach this at home.",Indian,negative,religious_intolerance,2439,1204,295
+3,twitter,2025-10-28,user_anon_0003,"Building manager in Arlington sent a memo targeting 'pungent ethnic cooking.' We all know who that's aimed at.",Indian,negative,housing_discrimination,2298,404,353
+4,twitter,2026-02-27,user_anon_0004,"'China flu' 'Indian variant' — racializing diseases is dehumanization and it still happens in 2026.",Asian/Indian,negative,disease_racialization,12892,1733,1468
+5,twitter,2025-12-27,user_anon_0005,Our school in Pittsburgh launched an anti-racism workshop focused on anti-Asian discrimination. Progress!,Asian,positive,education,6783,3397,754
+6,twitter,2025-11-17,user_anon_0006,Thread comparing anti-Indian racism in the UK vs the US. Different patterns emerge in San Francisco vs London.,Indian,neutral,academic_discourse,931,99,282
+7,twitter,2025-12-19,user_anon_0007,"Career counselor at Brown told Karthik to 'consider positions back in India where you'd be more comfortable.'",Indian,negative,workplace_discrimination,17792,1912,3928
+8,twitter,2026-05-08,user_anon_0008,My Indian roommate Amrita taught me Ganesh Chaturthi traditions and I taught her Thanksgiving. Beautiful exchange!,Indian,positive,cultural_exchange,17059,5934,2199
+9,twitter,2026-05-25,user_anon_0009,"Kids at school keep making 'bobs and vagene' jokes at my 14-year-old daughter. It's destroying her confidence.",Indian,negative,sexual_harassment,562,219,179
+10,twitter,2026-03-31,user_anon_0010,Parents left India with $200. Today they own 10 businesses in Cleveland and employ 500 people. American dream.,Indian,positive,immigration_story,24678,12275,6694
+11,twitter,2025-11-29,user_anon_0011,"Gym bro told me 'Asians aren't built for weightlifting' while I was deadlifting 200 lbs.",Asian,negative,stereotyping,17626,3584,2473
+12,twitter,2025-11-30,user_anon_0012,"'You speak English so well for an Indian person.' Ishita hears this microaggression every week at work.",Indian,negative,microaggression,1484,873,364
+13,twitter,2025-11-05,user_anon_0013,Research paper at Dartmouth on psychological impact of microaggressions on South Asian youth published.,Indian,neutral,research,3453,778,284
+14,twitter,2026-05-09,user_anon_0014,"Someone at the grocery store told me 'Indians shouldn't be doing that stick to IT.' The casual racism in Baltimore is unreal.",Indian,negative,stereotyping,10925,1207,4504
+15,twitter,2026-05-19,user_anon_0015,Aisha from San Francisco founded a nonprofit teaching girls to code. Already reached 400 students across 12 states.,Indian,positive,entrepreneurship,12042,3712,1569
+16,twitter,2025-11-11,user_anon_0016,"Korean temple's open kitchen in Nashville feeds 10000+ people every Sunday. No questions asked. Just love.",Asian,positive,community_service,3961,999,110
+17,twitter,2026-03-07,user_anon_0017,"My Thai accent makes me 'hard to understand' but the Scottish intern is 'charming.' Double standard at a government agency.",Asian,negative,double_standards,10104,139,3456
+18,twitter,2025-12-23,user_anon_0018,"My Sikh neighbor in Memphis shovels EVERYONE's driveway after every snowstorm. Never asks for anything.",Indian,positive,community_service,3169,1622,138
+19,twitter,2025-12-02,user_anon_0019,"My Sikh neighbor in Seattle shovels EVERYONE's driveway after every snowstorm. Never asks for anything.",Indian,positive,community_service,3265,487,760
+20,twitter,2025-10-08,user_anon_0020,Indian American financial analyst just won a national award in Nashville! Representation in every field.,Indian,positive,achievement,16206,8316,4633
+21,twitter,2026-02-27,user_anon_0021,Launched a nonprofit in Philadelphia to teach Asian American history in K-12 schools. Education defeats hate.,Asian,positive,education,5423,1856,393
+22,twitter,2026-02-22,user_anon_0022,My Cambodian grandmother just became a US citizen at 78 in Portland! The pride in her eyes was everything.,Asian,positive,immigration_story,354,55,49
+23,twitter,2026-04-15,user_anon_0023,Asian hate crime reporting hotline in Tampa trained 500 new volunteer counselors. The work continues.,Asian,positive,community_action,23991,637,4518
+24,twitter,2025-11-07,user_anon_0024,NPR feature on how Vietnamese American communities in Arlington are redefining identity in the digital age.,Asian,neutral,media,521,171,25
+25,twitter,2026-02-23,user_anon_0025,"Cambodian coworker was excluded from client dinner at a leading pharma company — thought she'd 'make the client uncomfortable.'",Asian,negative,workplace_discrimination,109,47,36
+26,twitter,2026-02-05,user_anon_0026,Got denied a mortgage in Columbus with a perfect credit score. The white couple with lower income got approved.,Indian,negative,financial_discrimination,17316,10125,6564
+27,twitter,2026-02-24,user_anon_0027,Indian students from Columbus topped the international science olympiad again. Talent is universal.,Indian,positive,achievement,4779,2311,1151
+28,twitter,2026-01-13,user_anon_0028,Indian American software engineer at Cedars-Sinai performed a groundbreaking procedure. Saving lives every day.,Indian,positive,scientific_achievement,17056,5174,1633
+29,twitter,2025-12-10,user_anon_0029,"My turban makes me a target every day in Brooklyn. People yell 'terrorist' from cars. I'm a peaceful surgeon.",Indian,negative,islamophobia_adjacent,8719,5176,4282
+30,twitter,2026-02-05,user_anon_0030,Indian students from Raleigh topped the international science olympiad again. Talent is universal.,Indian,positive,achievement,13469,5433,31
+31,twitter,2025-10-25,user_anon_0031,The intersection of caste and race discrimination in Memphis is an understudied phenomenon per new paper.,Indian,neutral,research,162,16,57
+32,twitter,2026-02-16,user_anon_0032,Hotel receptionist in Charlotte asked if I was the taxi driver when I went to check into my executive suite.,Indian,negative,discrimination,16105,3720,1852
+33,twitter,2026-04-22,user_anon_0033,Filipino cultural festival embraced by the whole city of Oakland. Culture shared is culture multiplied.,Asian,positive,cultural_celebration,388,99,41
+34,twitter,2026-05-01,user_anon_0034,"'You're pretty for an Indian girl' someone told Neha. The backhanded compliments hit different.",Indian,negative,microaggression,8591,114,2718
+35,twitter,2026-02-02,user_anon_0035,Organized a community cleanup in Chinatown Jacksonville today. 8000+ volunteers from all walks of life!,Asian,positive,community_action,6607,497,1613
+36,twitter,2026-02-16,user_anon_0036,My Indonesian American best friend taught me to make pho from scratch. 13 years of friendship.,Asian,positive,cultural_exchange,17352,9459,1841
+37,twitter,2026-05-06,user_anon_0037,"So tired of being the 'token Asian' at a government agency. Included in photos for diversity but never in meetings that matter.",Asian,negative,tokenism,164,74,24
+38,twitter,2026-05-31,user_anon_0038,Korean cultural festival embraced by the whole city of Charlotte. Culture shared is culture multiplied.,Asian,positive,cultural_celebration,7508,642,1721
+39,twitter,2026-02-23,user_anon_0039,Indian grocery store in Seattle gives discounts to seniors every Tuesday. Community taking care of its own.,Indian,positive,community_service,8172,3977,2282
+40,twitter,2026-03-06,user_anon_0040,South Asian women-led tech startups raised record funding in 2026. Glass ceiling shattered.,Indian,positive,entrepreneurship,19489,5555,3700
+41,twitter,2026-03-10,user_anon_0041,Indian American community in Minneapolis raised $75K for local school funding. Investing in education!,Indian,positive,community_achievement,4296,1114,412
+42,twitter,2025-10-21,user_anon_0042,My classmates at Vanderbilt assumed I got in through a quota. I had the highest entrance score in our cohort.,Indian,negative,achievement_dismissal,12241,7103,33
+43,twitter,2025-11-29,user_anon_0043,Indian patients wait 16% longer on average in ERs in Houston compared to white patients per new study.,Indian,negative,healthcare_discrimination,13772,1153,6408
+44,twitter,2026-05-05,user_anon_0044,"Got 'randomly' searched 6 times this year at the Seattle airport. My white husband? Zero times.",Indian,negative,profiling,6861,1024,3366
+45,twitter,2026-01-08,user_anon_0045,Ravi from Denver just became the youngest Indian American judge in state history. Proud moment.,Indian,positive,achievement,24572,493,2452
+46,twitter,2025-11-18,user_anon_0046,Thread comparing anti-Indian racism in the UK vs the US. Different patterns emerge in Phoenix vs London.,Indian,neutral,academic_discourse,3068,66,1086
+47,twitter,2026-02-24,user_anon_0047,Only Asian in the room at a FAANG company when someone made a racist joke. Everyone laughed. Including my manager.,Asian,negative,workplace_discrimination,9201,1867,2978
+48,twitter,2026-02-19,user_anon_0048,"'Where are you REALLY from?' asked a stranger at the park. My family has been in Indianapolis for three generations.",Asian,negative,microaggression,15753,6569,5003
+49,twitter,2026-02-03,user_anon_0049,New podcast explores nuanced experiences of second-generation Vietnamese Americans. Worth a listen.,Asian,neutral,media,2018,77,393
+50,twitter,2026-04-07,user_anon_0050,"Told my teacher at school in Pittsburgh I want to be an artist and she said 'but Indians should be doctors or engineers.'",Indian,negative,stereotyping,9863,5757,4155
+51,twitter,2026-02-22,user_anon_0051,Indians hold a disproportionate number of Silicon Valley leadership roles — an interesting trend worth studying.,Indian,neutral,demographics,4535,1652,1535
+52,twitter,2025-10-18,user_anon_0052,Report: Indian students in Jacksonville face 6x more racial bullying compared to 2019 levels.,Indian,neutral,statistics,1299,427,281
+53,twitter,2026-04-01,user_anon_0053,"Why do people think it's okay to mock Indian accents at work? It's 2025 and this happens at a top law firm. #RacismIsReal",Indian,negative,workplace_discrimination,8382,4301,1907
+54,twitter,2025-11-19,user_anon_0054,Free tutoring program run by Indian American volunteers in Chicago just graduated its 1500th student!,Indian,positive,community_service,10921,1159,3209
+55,twitter,2025-10-12,user_anon_0055,Community in Denver rallied around the vandalized Chinese-owned bakery. GoFundMe raised $750K in 24 hours.,Asian,positive,community_solidarity,15872,5956,3270
+56,twitter,2026-05-26,user_anon_0056,"Customer at the gas station in Brooklyn asked for 'the American employee' instead of me. Manager didn't say a word.",Indian,negative,customer_discrimination,8573,1477,909
+57,twitter,2025-10-16,user_anon_0057,NPR feature on how Thai American communities in Cleveland are redefining identity in the digital age.,Asian,neutral,media,2716,326,48
+58,twitter,2026-05-14,user_anon_0058,"My Filipino coworker at a leading pharma company organized a cultural awareness month. Best initiative we've ever had.",Asian,positive,workplace_inclusion,15284,3109,2184
+59,twitter,2025-11-09,user_anon_0059,The coalition between Black and Asian communities in Minneapolis against racism grows stronger daily. United we rise.,Asian,positive,intersectional_solidarity,2685,937,104
+60,twitter,2025-11-10,user_anon_0060,Why is anti-Indian racism so normalized? People openly mock the accent and culture and nobody in Indianapolis bats an eye.,Indian,negative,normalized_racism,628,43,87
+61,twitter,2025-11-10,user_anon_0061,Comments under any video featuring an Indian researcher are a cesspool of racism. Every single time.,Indian,negative,online_harassment,13078,277,5628
+62,twitter,2026-01-09,user_anon_0062,Desi parents in Miami started a support group for other immigrant parents navigating the school system. Beautiful.,Indian,positive,community_support,21734,1088,170
+63,twitter,2026-02-25,user_anon_0063,"My Malaysian neighbor's ramen recipe brings the entire neighborhood together. Food unites.",Asian,positive,cultural_appreciation,10573,5370,738
+64,twitter,2026-05-17,user_anon_0064,H1B visa people are just cheap labor for a FAANG company. They only hire Indians because they accept lower pay.,Indian,negative,xenophobia,16020,2209,366
+65,twitter,2026-02-04,user_anon_0065,15rd incident this month where an Indian Uber driver was verbally abused by passengers in San Jose. This needs to stop.,Indian,negative,verbal_abuse,2466,1454,91
+66,twitter,2025-12-13,user_anon_0066,Got my eyes pulled back by classmates again today at school in Chicago. Teacher saw and did nothing.,Asian,negative,school_bullying,10766,3464,4323
+67,twitter,2026-06-16,user_anon_0067,Only Asian in the room at a healthcare corporation when someone made a racist joke. Everyone laughed. Including my manager.,Asian,negative,workplace_discrimination,5732,1850,139
+68,twitter,2026-06-01,user_anon_0068,Launched a nonprofit in Orlando to teach Asian American history in K-12 schools. Education defeats hate.,Asian,positive,education,384,149,94
+69,twitter,2026-03-08,user_anon_0069,"Both parents are Indian immigrants and marketing directors who saved lives during COVID. Who doesn't belong here?",Indian,positive,pandemic_contribution,23584,7282,1246
+70,twitter,2026-05-03,user_anon_0070,The entire neighborhood showed up for our Holi celebration in Seattle. Dancing brings everyone together.,Indian,positive,cultural_celebration,14393,472,660
+71,twitter,2026-01-03,user_anon_0071,Thread comparing anti-Indian racism in the UK vs the US. Different patterns emerge in Minneapolis vs London.,Indian,neutral,academic_discourse,1019,197,204
+72,twitter,2026-03-19,user_anon_0072,Denver police department releasing quarterly data on hate crime reports by ethnicity for the first time.,Asian,neutral,reporting,1049,165,66
+73,twitter,2025-12-22,user_anon_0073,Indian American pharmacist in Philadelphia volunteers free services every weekend for underserved communities.,Indian,positive,community_service,21591,5394,4853
+74,twitter,2026-04-23,user_anon_0074,"These people multiply like rabbits soon there'll be more of them than us. Get them out of Memphis.",Indian,negative,dehumanization,16028,4499,5059
+75,twitter,2025-11-22,user_anon_0075,Pew Research: 42% of Asian Americans report experiencing racial discrimination in the past year.,Asian,neutral,statistics,2928,323,226
+76,twitter,2026-05-06,user_anon_0076,"Asked a normal question in a meeting at a leading pharma company and was told to 'calm down' — they never say that to non-Asian colleagues.",Asian,negative,workplace_discrimination,6389,2344,1925
+77,twitter,2026-06-12,user_anon_0077,"Japanese coworker was excluded from client dinner at a top law firm — thought she'd 'make the client uncomfortable.'",Asian,negative,workplace_discrimination,12322,54,5745
+78,twitter,2026-05-17,user_anon_0078,Malaysian cultural festival embraced by the whole city of Pittsburgh. Culture shared is culture multiplied.,Asian,positive,cultural_celebration,14192,6388,1900
+79,twitter,2026-02-25,user_anon_0079,"Just had a passenger refuse to get in my cab in Arlington because I'm Indian. Happens at least once a week.",Indian,negative,discrimination,9764,1173,4458
+80,twitter,2026-01-12,user_anon_0080,Celebrating Lunar New Year with neighbors of all backgrounds in Sacramento. This is what community looks like!,Asian,positive,cultural_celebration,24080,11794,5714
+81,twitter,2026-06-12,user_anon_0081,"School lunch lady in Orlando refused to let my son microwave his samosas saying 'it stinks up the cafeteria.'",Indian,negative,cultural_intolerance,1276,377,140
+82,twitter,2026-04-30,user_anon_0082,"Panel at Tufts: Is 'Asian American' as a category too broad to be useful in research?",Asian,neutral,academic_discourse,3969,578,1311
+83,twitter,2025-12-18,user_anon_0083,Got denied a mortgage in Portland with a perfect credit score. The white couple with lower income got approved.,Indian,negative,financial_discrimination,11013,2410,3922
+84,twitter,2026-06-02,user_anon_0084,Beautiful Baisakhi celebrations in downtown San Diego with thousands from all backgrounds!,Indian,positive,cultural_celebration,21424,7541,4450
+85,twitter,2026-03-25,user_anon_0085,People assume I got into Emory because of affirmative action not my 99th percentile scores.,Asian,negative,achievement_dismissal,3682,1434,1269
+86,twitter,2026-05-28,user_anon_0086,Stop calling every Indian person a scammer. Deepak is a software engineer not a criminal. Stereotypes have real consequences.,Indian,negative,stereotyping,1777,326,622
+87,twitter,2026-03-21,user_anon_0087,Only Asian in the room at a government agency when someone made a racist joke. Everyone laughed. Including my manager.,Asian,negative,workplace_discrimination,7011,2936,2736
+88,twitter,2025-10-17,user_anon_0088,Japanese American mental health nonprofit in San Francisco secured federal funding. Finally resources we need.,Asian,positive,mental_health,9034,4916,853
+89,twitter,2025-10-30,user_anon_0089,"Gym bro told me 'Asians aren't built for weightlifting' while I was deadlifting 1000 lbs.",Asian,negative,stereotyping,1833,767,839
+90,twitter,2026-02-17,user_anon_0090,Our temple in Raleigh hosted an interfaith dinner last night. 2000 people from every background. This is America.,Indian,positive,interfaith,8796,2790,100
+91,twitter,2026-03-27,user_anon_0091,"Got pulled over in Nashville for 'matching a description.' The description? Brown male driving a nice car.",Indian,negative,profiling,12558,6509,6103
+92,twitter,2026-05-24,user_anon_0092,Someone carved racial slurs into my car outside the restaurant in Brooklyn. Police report filed but I feel unsafe.,Indian,negative,hate_crime,12147,931,3402
+93,twitter,2026-05-01,user_anon_0093,"Panel at Georgetown: Is 'Asian American' as a category too broad to be useful in research?",Asian,neutral,academic_discourse,2085,116,689
+94,twitter,2026-01-05,user_anon_0094,Not all criticism of immigration policy targeting Phoenix jobs is racist. Can we have nuanced conversations?,Indian,neutral,policy_discussion,2421,316,680
+95,twitter,2025-10-23,user_anon_0095,Being Chinese American means being simultaneously invisible and hypervisible depending on the narrative.,Asian,negative,erasure,1355,562,412
+96,twitter,2026-01-13,user_anon_0096,"Told my teacher at school in Dallas I want to be an artist and she said 'but Indians should be doctors or engineers.'",Indian,negative,stereotyping,295,143,113
+97,twitter,2026-03-21,user_anon_0097,Indian American data scientist just won a national award in Memphis! Representation in every field.,Indian,positive,achievement,17435,3080,1332
+98,twitter,2025-12-26,user_anon_0098,Chinese virus started all this. They should pay for it. Tired of seeing them in Pittsburgh.,Asian,negative,scapegoating,3251,1631,840
+99,twitter,2025-11-03,user_anon_0099,Holiday dinner with our Indian neighbors. biryani fusion was INCREDIBLE. Best meal ever.,Indian,positive,cultural_fusion,24557,5790,215
+100,twitter,2025-12-31,user_anon_0100,Indian coding bootcamp graduates in Fort Worth are changing the tech industry. Diverse perspectives = better products.,Indian,positive,achievement,2194,490,108
+101,twitter,2025-10-17,user_anon_0101,"Startup pitch at a top consulting firm was going great until VC asked 'can Americans relate to a product by an Indian founder?'",Indian,negative,employment_discrimination,7515,3571,335
+102,twitter,2026-06-06,user_anon_0102,"My Thai parents' restaurant got a 1-star review saying 'too many foreigners working here.' We OWN it.",Asian,negative,discrimination,15996,5469,685
+103,twitter,2025-10-09,user_anon_0103,"Someone told my elderly Indonesian grandmother to 'learn English or leave' at the park in Philadelphia.",Asian,negative,verbal_abuse,5285,2695,1978
+104,twitter,2026-03-06,user_anon_0104,"Teacher in Charlotte seated all Asian kids together 'so they can help each other.' We don't speak the same language.",Asian,negative,stereotyping,5806,2078,2084
+105,twitter,2026-02-28,user_anon_0105,Three generations of my Filipino American family voted together today in Boston. Democracy in action.,Asian,positive,civic_engagement,20939,4272,4364
+106,twitter,2025-12-22,user_anon_0106,Celebrating Lunar New Year with neighbors of all backgrounds in Memphis. This is what community looks like!,Asian,positive,cultural_celebration,24686,9198,6704
+107,twitter,2026-03-12,user_anon_0107,Someone carved racial slurs into my car outside the bus stop in Orlando. Police report filed but I feel unsafe.,Indian,negative,hate_crime,17933,1003,281
+108,twitter,2026-03-11,user_anon_0108,"Got called 'Apu' by 14 different strangers this week alone. The Simpsons ruined it for all of us.",Indian,negative,mockery,17345,572,5240
+109,twitter,2025-11-09,user_anon_0109,"Attended a vigil for Asian hate crime victims in Seattle tonight. The community's resilience is inspiring.",Asian,positive,community_solidarity,24072,9168,3051
+110,twitter,2025-12-18,user_anon_0110,"Cashier at the restaurant asked if I 'work at the call center down the road' when I said I'm from India. I'm a dentist.",Indian,negative,stereotyping,12091,6277,2934
+111,twitter,2026-06-06,user_anon_0111,My Korean American best friend taught me to make ramen from scratch. 2 years of friendship.,Asian,positive,cultural_exchange,3081,687,250
+112,twitter,2026-04-27,user_anon_0112,Why are Indians always in groups at a top consulting firm? They never try to integrate. Overheard at the water cooler.,Indian,negative,xenophobia,9074,4086,3061
+113,twitter,2025-10-27,user_anon_0113,My Vietnamese American professor at Yale changed my entire worldview. Representation in academia matters.,Asian,positive,representation,19229,8974,3712
+114,twitter,2026-05-27,user_anon_0114,Immigration policy debate around H1B reform affecting Cleveland tech sector heating up. Both sides have points.,Indian,neutral,policy_discussion,617,48,85
+115,twitter,2026-03-19,user_anon_0115,Interesting panel discussion on intersectionality of racism against South Asians at UChicago today.,Indian,neutral,academic_discourse,890,217,32
+116,twitter,2026-06-15,user_anon_0116,Free tutoring program run by Indian American volunteers in Miami just graduated its 10000th student!,Indian,positive,community_service,13767,5434,1174
+117,twitter,2025-10-02,user_anon_0117,"Someone told my elderly Malaysian grandmother to 'learn English or leave' at the subway in Charlotte.",Asian,negative,verbal_abuse,15559,5031,1678
+118,twitter,2025-10-10,user_anon_0118,Beautiful Eid celebrations in downtown Columbus with thousands from all backgrounds!,Indian,positive,cultural_celebration,1857,879,373
+119,twitter,2026-01-20,user_anon_0119,Why does nobody in Fort Worth talk about how Asians get racially profiled too?,Asian,negative,erasure,7687,1394,1613
+120,twitter,2026-03-03,user_anon_0120,My Thai American best friend taught me to make sushi from scratch. 7 years of friendship.,Asian,positive,cultural_exchange,4517,1322,194
+121,twitter,2025-11-03,user_anon_0121,Immigration policy debate around H1B reform affecting Minneapolis tech sector heating up. Both sides have points.,Indian,neutral,policy_discussion,1208,181,93
+122,twitter,2026-01-11,user_anon_0122,Interesting thread on the role of social media in amplifying anti-Asian rhetoric post-2020.,Asian,neutral,research,3834,339,583
+123,twitter,2025-12-15,user_anon_0123,My Indian roommate Meera taught me Raksha Bandhan traditions and I taught her Thanksgiving. Beautiful exchange!,Indian,positive,cultural_exchange,7679,4160,236
+124,twitter,2026-05-04,user_anon_0124,Malaysian American students in Arlington organized a voter registration drive. 750 new voters in one week!,Asian,positive,civic_engagement,4806,1272,371
+125,twitter,2025-12-11,user_anon_0125,Our temple in Portland hosted an interfaith dinner last night. 10000 people from every background. This is America.,Indian,positive,interfaith,14674,3413,3624
+126,twitter,2026-03-04,user_anon_0126,Free Hindi and Mandarin classes for kids in San Antonio. Building bridges through language.,Asian/Indian,positive,education,22105,750,1587
+127,twitter,2026-05-02,user_anon_0127,Indonesian American students in Phoenix organized a voter registration drive. 300 new voters in one week!,Asian,positive,civic_engagement,17762,7012,1129
+128,twitter,2026-04-02,user_anon_0128,Being Thai American means being simultaneously invisible and hypervisible depending on the narrative.,Asian,negative,erasure,16043,3900,6945
+129,twitter,2025-12-16,user_anon_0129,Hired an incredible diverse team this quarter at a healthcare corporation. Talent is global and borderless.,Indian/Asian,positive,workplace_diversity,4606,1794,731
+130,twitter,2025-10-17,user_anon_0130,"'Where are you REALLY from?' asked a stranger at the park. My family has been in San Diego for three generations.",Asian,negative,microaggression,5589,2892,2243
+131,twitter,2025-11-27,user_anon_0131,Free Hindi and Mandarin classes for kids in Sacramento. Building bridges through language.,Asian/Indian,positive,education,15010,7871,1677
+132,twitter,2026-01-31,user_anon_0132,Shoutout to South Asian mental health advocates in Memphis breaking stigma in our communities.,Indian,positive,mental_health,12599,3900,3171
+133,twitter,2026-04-28,user_anon_0133,Onam officially recognized as a public holiday in our state! Huge win for the community!,Indian,positive,policy_win,20182,953,301
+134,twitter,2026-04-13,user_anon_0134,Tampa city council reviewing hate crime reporting procedures after community feedback sessions.,Asian,neutral,policy_discussion,3758,1849,907
+135,twitter,2025-11-12,user_anon_0135,"Got turned away from a bar in Indianapolis while white friends walked right in. Bouncer said 'private event.' It wasn't.",Indian,negative,discrimination,4169,2014,759
+136,twitter,2026-04-06,user_anon_0136,H1B visa people are just cheap labor for a Big Tech firm. They only hire Indians because they accept lower pay.,Indian,negative,xenophobia,2017,472,493
+137,twitter,2025-10-21,user_anon_0137,"Told my teacher at school in Miami I want to be an artist and she said 'but Indians should be doctors or engineers.'",Indian,negative,stereotyping,952,411,204
+138,twitter,2026-03-23,user_anon_0138,"'At least you're not Black' — someone said this to me thinking it was comforting. Racism isn't a ranking system.",Asian,negative,minimization,979,403,187
+139,twitter,2026-02-26,user_anon_0139,"Anti-Asian sentiment on social media increased 45% during the pandemic and hasn't fully recovered per new data.",Asian,neutral,research,473,122,49
+140,twitter,2026-05-28,user_anon_0140,"Indian architects make up a huge part of the US healthcare system. Facts don't care about xenophobia.",Indian,positive,achievement,14042,923,3128
+141,twitter,2025-12-24,user_anon_0141,Indian startup founder in Baltimore just raised $25M Series B. Breaking barriers and building the future!,Indian,positive,entrepreneurship,10913,4900,153
+142,twitter,2026-01-03,user_anon_0142,"My Cambodian friend got told to 'speak American' at a subway in San Jose. The ignorance is exhausting.",Asian,negative,verbal_abuse,11671,390,5291
+143,twitter,2026-04-05,user_anon_0143,The coalition between Black and Asian communities in Brooklyn against racism grows stronger daily. United we rise.,Asian,positive,intersectional_solidarity,9456,1197,2738
+144,twitter,2025-11-03,user_anon_0144,Navratri officially recognized as a public holiday in our state! Huge win for the community!,Indian,positive,policy_win,5788,981,121
+145,twitter,2026-03-25,user_anon_0145,Japanese American mental health nonprofit in Denver secured federal funding. Finally resources we need.,Asian,positive,mental_health,6218,2412,843
+146,twitter,2026-02-16,user_anon_0146,Indian American astronaut selected for the next space mission in 2026! Literally reaching for the stars.,Indian,positive,scientific_achievement,4415,1989,952
+147,twitter,2026-05-15,user_anon_0147,Why are there so many Indians in tech at San Diego companies? Like genuinely asking for perspectives.,Indian,neutral,questioning,4986,2193,276
+148,twitter,2025-12-14,user_anon_0148,"'You'd be prettier without that bindi Bhavna.' Random stranger at the grocery store decided my identity needs his approval.",Indian,negative,cultural_intolerance,9542,2976,899
+149,twitter,2025-10-22,user_anon_0149,"Every time a CEO is Indian everyone says 'diversity hire' but when it's a white CEO it's 'merit.' The double standard at a major bank is insane.",Indian,negative,double_standards,8228,4109,2361
+150,twitter,2026-06-19,user_anon_0150,"My Indonesian coworker's cooking workshop at a Fortune 500 company was the most popular team event ever. Culture unites.",Asian,positive,cultural_exchange,3239,1490,584
+151,twitter,2025-11-13,user_anon_0151,"Japanese kid gets straight A's: 'of course they're Asian.' Struggles: 'what's wrong with you?' We can't win.",Asian,negative,stereotyping,6913,1301,1023
+152,twitter,2026-02-26,user_anon_0152,"Really appreciate a Fortune 500 company's new DEI initiative addressing anti-Asian bias. About time.",Asian,positive,workplace_inclusion,15815,1476,4684
+153,twitter,2025-12-29,user_anon_0153,"'You'd be prettier without that bindi Divya.' Random stranger at the library decided my identity needs his approval.",Indian,negative,cultural_intolerance,5392,28,1881
+154,twitter,2026-05-23,user_anon_0154,Indonesian American tech leader just donated $500K to fund scholarships for underrepresented students.,Asian,positive,philanthropy,8270,1680,1833
+155,twitter,2025-10-16,user_anon_0155,Received a death threat in DMs after posting about Diwali celebrations. For celebrating a festival.,Indian,negative,online_harassment,16377,2723,3197
+156,twitter,2025-10-21,user_anon_0156,Neighbor in Seattle learned basic Hindi phrases to make my grandparents feel welcome. Small gestures huge impact.,Indian,positive,allyship,13796,5764,1539
+157,twitter,2026-05-31,user_anon_0157,"The way people throw around 'Indian scammer' jokes at a Big Tech firm tells you everything about normalized racism.",Indian,negative,stereotyping,5377,1781,2406
+158,twitter,2026-04-06,user_anon_0158,"Doctor in Tampa dismissed my symptoms saying 'South Asians tend to exaggerate pain.' I had appendicitis.",Indian,negative,healthcare_discrimination,5320,2519,1549
+159,twitter,2026-05-27,user_anon_0159,"My Filipino neighbor's spring rolls recipe brings the entire neighborhood together. Food unites.",Asian,positive,cultural_appreciation,22423,9735,1659
+160,twitter,2025-12-01,user_anon_0160,Asian hate crime reporting hotline in Pittsburgh trained 1500 new volunteer counselors. The work continues.,Asian,positive,community_action,21626,4231,2354
+161,twitter,2025-10-14,user_anon_0161,Philadelphia city council reviewing hate crime reporting procedures after community feedback sessions.,Asian,neutral,policy_discussion,4983,661,812
+162,twitter,2025-11-21,user_anon_0162,Indian grocery store in Jacksonville gives discounts to seniors every Tuesday. Community taking care of its own.,Indian,positive,community_service,9878,1585,1994
+163,twitter,2026-03-22,user_anon_0163,Indian American researcher in Orlando volunteers free services every weekend for underserved communities.,Indian,positive,community_service,7857,2749,1446
+164,twitter,2026-05-16,user_anon_0164,Census data shows Indonesian Americans are among the fastest growing demographics in Sacramento.,Asian,neutral,demographics,3408,1280,19
+165,twitter,2026-05-06,user_anon_0165,"Teacher in Orlando seated all Asian kids together 'so they can help each other.' We don't speak the same language.",Asian,negative,stereotyping,9184,1430,3824
+166,twitter,2026-04-16,user_anon_0166,"New Year's resolution: call out anti-Asian racism every single time I see it in Jacksonville. No more bystanders.",Asian,positive,allyship,14964,252,1106
+167,twitter,2026-03-30,user_anon_0167,"So tired of being the 'token Asian' at a leading pharma company. Included in photos for diversity but never in meetings that matter.",Asian,negative,tokenism,6316,2193,2993
+168,twitter,2026-01-31,user_anon_0168,Annual diversity report at a healthcare corporation shows Asian representation at 26% in leadership.,Asian,neutral,statistics,2485,1086,412
+169,twitter,2026-01-13,user_anon_0169,School board meeting in Nashville: parents demanding better anti-bullying policies after anti-Asian incidents.,Asian,neutral,school_policy,2589,370,841
+170,twitter,2025-10-21,user_anon_0170,"Got called 'Apu' by 4 different strangers this week alone. The Simpsons ruined it for all of us.",Indian,negative,mockery,1500,474,628
+171,twitter,2025-12-02,user_anon_0171,"'You speak English so well for an Indian person.' Kiran hears this microaggression every week at work.",Indian,negative,microaggression,12260,5911,535
+172,twitter,2026-02-06,user_anon_0172,"My Sikh neighbor in Minneapolis shovels EVERYONE's driveway after every snowstorm. Never asks for anything.",Indian,positive,community_service,24526,875,2032
+173,twitter,2025-11-22,user_anon_0173,Indian American author from Seattle just won a major literary prize! Our stories deserve to be heard.,Indian,positive,achievement,5813,2175,1576
+174,twitter,2026-05-09,user_anon_0174,"Just got told to 'go back to your country' at the restaurant in Charlotte. I was born here. Being brown is exhausting.",Indian,negative,verbal_abuse,9600,4436,312
+175,twitter,2025-10-27,user_anon_0175,"Really appreciate a top consulting firm's new DEI initiative addressing anti-Asian bias. About time.",Asian,positive,workplace_inclusion,9559,1074,2514
+176,twitter,2026-04-08,user_anon_0176,Organized a community cleanup in Chinatown Memphis today. 100+ volunteers from all walks of life!,Asian,positive,community_action,228,67,41
+177,twitter,2025-12-04,user_anon_0177,The way people in Chicago talk about Asian drivers is so casually racist and nobody calls it out.,Asian,negative,stereotyping,3333,391,1284
+178,twitter,2026-01-17,user_anon_0178,"My turban makes me a target every day in Dallas. People yell 'terrorist' from cars. I'm a peaceful accountant.",Indian,negative,islamophobia_adjacent,7036,4168,157
+179,twitter,2025-11-21,user_anon_0179,Indian American professor just won a national award in San Diego! Representation in every field.,Indian,positive,achievement,16296,1421,3983
+180,twitter,2026-05-19,user_anon_0180,"Got harassed on the subway in Minneapolis just for wearing traditional Indian clothing. Called me a 'terrorist.'",Indian,negative,physical_violence,14714,8,559
+181,twitter,2026-03-20,user_anon_0181,My Thai American best friend taught me to make ramen from scratch. 11 years of friendship.,Asian,positive,cultural_exchange,20909,10755,691
+182,twitter,2025-12-23,user_anon_0182,My Thai American best friend taught me to make pad thai from scratch. 14 years of friendship.,Asian,positive,cultural_exchange,18814,1766,2388
+183,twitter,2025-10-24,user_anon_0183,The way people in Portland talk about Asian drivers is so casually racist and nobody calls it out.,Asian,negative,stereotyping,8718,1191,2925
+184,twitter,2025-11-17,user_anon_0184,Indian American financial analyst in San Antonio volunteers free services every weekend for underserved communities.,Indian,positive,community_service,21959,1345,2212
+185,twitter,2026-06-10,user_anon_0185,"Booked a vacation rental in Austin. Host cancelled when she saw my profile pic. White friend's photo — accepted immediately.",Indian,negative,discrimination,9821,3055,737
+186,twitter,2026-03-26,user_anon_0186,"My Indonesian coworker at a leading pharma company organized a cultural awareness month. Best initiative we've ever had.",Asian,positive,workplace_inclusion,20158,1566,972
+187,twitter,2026-03-17,user_anon_0187,"'Where are you REALLY from?' asked a stranger at the hospital waiting room. My family has been in Miami for three generations.",Asian,negative,microaggression,5829,2764,2389
+188,twitter,2025-12-03,user_anon_0188,My classmates at Dartmouth assumed I got in through a quota. I had the highest entrance score in our cohort.,Indian,negative,achievement_dismissal,5920,3095,631
+189,twitter,2026-06-15,user_anon_0189,Indian startup founder in Baltimore just raised $100M Series B. Breaking barriers and building the future!,Indian,positive,entrepreneurship,23253,3172,6932
+190,twitter,2026-04-20,user_anon_0190,Indian dance troupe performed at the halftime show! Bollywood meets Broadway and it was FIRE.,Indian,positive,cultural_achievement,5845,951,351
+191,twitter,2025-10-25,user_anon_0191,"HOA in Sacramento sent a violation for our Rangoli decoration outside the door. Called it 'unsightly debris.' It's art.",Indian,negative,cultural_intolerance,856,53,414
+192,twitter,2025-11-01,user_anon_0192,"Indian Uber driver was playing Hindi music. Passenger wrote 'stop playing terrorist music.' This happened in Atlanta.",Indian,negative,islamophobia_adjacent,6234,3140,2441
+193,twitter,2026-05-31,user_anon_0193,"Someone at the library told me 'Indians shouldn't be doing that stick to IT.' The casual racism in San Jose is unreal.",Indian,negative,stereotyping,9576,662,3126
+194,twitter,2026-03-19,user_anon_0194,"My Thai coworker's cooking workshop at a leading pharma company was the most popular team event ever. Culture unites.",Asian,positive,cultural_exchange,22408,6819,2340
+195,twitter,2026-03-20,user_anon_0195,"Just got into MIT! Shoutout to Indian parents who sacrificed everything. This one's for Ma and Pa.",Indian,positive,personal_achievement,1832,586,78
+196,twitter,2025-12-26,user_anon_0196,The way people casually use slurs against Vietnamese Americans in online gaming is disgusting. We need better moderation.,Asian,negative,online_harassment,12643,2911,1064
+197,twitter,2026-05-14,user_anon_0197,"Got turned away from a bar in Philadelphia while white friends walked right in. Bouncer said 'private event.' It wasn't.",Indian,negative,discrimination,4482,2609,193
+198,twitter,2026-03-08,user_anon_0198,"Startup pitch at a major bank was going great until VC asked 'can Americans relate to a product by an Indian founder?'",Indian,negative,employment_discrimination,1617,29,61
+199,twitter,2026-04-29,user_anon_0199,Why do Indians always bring chapati to the office at a unicorn startup? Just eat normal food like everyone else.,Indian,negative,cultural_intolerance,5432,34,2716
+200,twitter,2026-04-12,user_anon_0200,"Real estate agent in Atlanta showed us houses only in 'diverse neighborhoods.' Asked about others — she got uncomfortable.",Indian,negative,housing_discrimination,11054,4400,4312
+201,twitter,2025-11-22,user_anon_0201,Indian American product manager just won a national award in Columbus! Representation in every field.,Indian,positive,achievement,1226,164,228
+202,twitter,2026-05-05,user_anon_0202,Ching chong ching chong — imagine if someone mocked YOUR language like they mock Japanese languages.,Asian,negative,mockery,17027,9932,2894
+203,twitter,2025-11-26,user_anon_0203,"My Indian neighbor brought over homemade paneer tikka and it's incredible. We need more cultural exchange not hate.",Indian,positive,cultural_appreciation,16806,4771,3614
+204,twitter,2026-02-14,user_anon_0204,"Booked a vacation rental in San Francisco. Host cancelled when she saw my profile pic. White friend's photo — accepted immediately.",Indian,negative,discrimination,14152,8367,729
+205,twitter,2025-11-10,user_anon_0205,"Someone yelled 'kung flu' at me while jogging in Arlington. I'm Thai American. Born in Ohio.",Asian,negative,verbal_abuse,11107,6641,2193
+206,twitter,2025-10-31,user_anon_0206,Census data shows Japanese Americans are among the fastest growing demographics in Chicago.,Asian,neutral,demographics,3816,265,51
+207,twitter,2025-11-24,user_anon_0207,Lakshmi from Philadelphia founded a nonprofit teaching girls to code. Already reached 100 students across 13 states.,Indian,positive,entrepreneurship,1762,626,122
+208,twitter,2025-12-26,user_anon_0208,Comments under any video featuring an Indian pharmacist are a cesspool of racism. Every single time.,Indian,negative,online_harassment,9151,3944,2498
+209,twitter,2026-04-12,user_anon_0209,"'Do you worship cows?' asked my 14-year-old's classmate. The parents clearly teach this at home.",Indian,negative,religious_intolerance,8039,3259,3930
+210,twitter,2026-01-06,user_anon_0210,Japanese BBQ truck won best food truck in Phoenix for the 4rd year! Flavor has no borders.,Asian,positive,cultural_appreciation,19053,5795,2113
+211,twitter,2026-04-03,user_anon_0211,Just witnessed a stranger defend an elderly Thai woman being harassed on the subway in Oakland. Faith in humanity restored.,Asian,positive,allyship,15942,923,4193
+212,twitter,2025-12-18,user_anon_0212,All 8 Indian employees at a top law firm were laid off first despite strong performance reviews. Coincidence? Sure.,Indian,negative,workplace_discrimination,13091,7319,2988
+213,twitter,2026-02-17,user_anon_0213,"Why do TV shows still use the 'nerdy Indonesian' trope? Lazy writing and casual racism.",Asian,negative,media_representation,14165,8311,2380
+214,twitter,2025-12-26,user_anon_0214,Got denied a mortgage in Baltimore with a perfect credit score. The white couple with lower income got approved.,Indian,negative,financial_discrimination,12168,3703,2336
+215,twitter,2026-05-09,user_anon_0215,"Every time a CEO is Indian everyone says 'diversity hire' but when it's a white CEO it's 'merit.' The double standard at a FAANG company is insane.",Indian,negative,double_standards,13008,2331,6168
+216,twitter,2026-03-12,user_anon_0216,"Every time a CEO is Indian everyone says 'diversity hire' but when it's a white CEO it's 'merit.' The double standard at a healthcare corporation is insane.",Indian,negative,double_standards,13356,4834,3660
+217,twitter,2025-10-04,user_anon_0217,"Cashier at the gas station asked if I 'work at the call center down the road' when I said I'm from India. I'm a software engineer.",Indian,negative,stereotyping,6733,1022,171
+218,twitter,2026-03-28,user_anon_0218,"Just got into NYU! Shoutout to Indian parents who sacrificed everything. This one's for Ma and Pa.",Indian,positive,personal_achievement,8264,4297,1087
+219,twitter,2025-11-29,user_anon_0219,Proud to be Indian American in Phoenix. My parents sacrificed everything so I could thrive here. This IS my home. #DesiPride,Indian,positive,identity_pride,18956,8957,5052
+220,twitter,2025-11-26,user_anon_0220,Our school in San Antonio launched an anti-racism workshop focused on anti-Asian discrimination. Progress!,Asian,positive,education,6206,2829,670
+221,twitter,2026-03-29,user_anon_0221,School board meeting in Denver: parents demanding better anti-bullying policies after anti-Asian incidents.,Asian,neutral,school_policy,1228,602,487
+222,twitter,2026-01-25,user_anon_0222,"My Filipino accent makes me 'hard to understand' but the Scottish intern is 'charming.' Double standard at a leading pharma company.",Asian,negative,double_standards,11202,5727,1161
+223,twitter,2026-02-08,user_anon_0223,New podcast explores nuanced experiences of second-generation Filipino Americans. Worth a listen.,Asian,neutral,media,2955,1225,6
+224,twitter,2025-10-17,user_anon_0224,Columbia launching new research center focused on South Asian diaspora experiences.,Indian,neutral,academic_discourse,3120,666,755
+225,twitter,2025-12-25,user_anon_0225,"Podcast host made 'Indian tech support' jokes for a full segment. 10000K subscribers laughing along. Normalized racism.",Indian,negative,media_representation,5051,2284,314
+226,twitter,2025-11-22,user_anon_0226,Indian American software engineer just won a national award in Miami! Representation in every field.,Indian,positive,achievement,8637,2296,2259
+227,twitter,2025-10-01,user_anon_0227,Hired an incredible diverse team this quarter at a top law firm. Talent is global and borderless.,Indian/Asian,positive,workplace_diversity,18688,3102,1413
+228,twitter,2026-01-25,user_anon_0228,Why is anti-Indian racism so normalized? People openly mock the accent and culture and nobody in Columbus bats an eye.,Indian,negative,normalized_racism,10583,3664,4304
+229,twitter,2025-10-03,user_anon_0229,Why is anti-Indian racism so normalized? People openly mock the accent and culture and nobody in Cleveland bats an eye.,Indian,negative,normalized_racism,15612,3101,572
+230,twitter,2025-12-11,user_anon_0230,"Landlord in Arlington refused to rent to us when he heard our Indian names on the phone. Showed up — suddenly 'it's taken.'",Indian,negative,housing_discrimination,13895,2112,5687
+231,twitter,2025-12-02,user_anon_0231,Being Japanese American means being simultaneously invisible and hypervisible depending on the narrative.,Asian,negative,erasure,7788,4185,2459
+232,twitter,2026-05-28,user_anon_0232,My Indian roommate Padma taught me Baisakhi traditions and I taught her Thanksgiving. Beautiful exchange!,Indian,positive,cultural_exchange,11502,2979,2823
+233,twitter,2026-03-08,user_anon_0233,"Every time I celebrate Eid openly it's an act of resistance against assimilation pressure.",Indian,positive,cultural_resistance,23259,1718,928
+234,twitter,2025-10-21,user_anon_0234,"HOA in Austin sent a violation for our Rangoli decoration outside the door. Called it 'unsightly debris.' It's art.",Indian,negative,cultural_intolerance,9278,4152,1729
+235,twitter,2026-06-09,user_anon_0235,Op-ed examining the political mobilization of Indian Americans in San Diego and other swing areas.,Indian,neutral,media,4366,70,1064
+236,twitter,2025-10-23,user_anon_0236,Thai American mental health nonprofit in Philadelphia secured federal funding. Finally resources we need.,Asian,positive,mental_health,7607,1548,170
+237,twitter,2026-02-16,user_anon_0237,Holiday dinner with our Indian neighbors. chapati fusion was INCREDIBLE. Best meal ever.,Indian,positive,cultural_fusion,12706,5919,2318
+238,twitter,2025-12-26,user_anon_0238,Just witnessed a stranger defend an elderly Thai woman being harassed on the subway in Los Angeles. Faith in humanity restored.,Asian,positive,allyship,8737,4518,2130
+239,twitter,2026-04-27,user_anon_0239,Filipino employees at a leading pharma company make 27% less than white employees for the same roles. Pay equity is a myth.,Asian,negative,pay_discrimination,14326,6340,4820
+240,twitter,2026-02-10,user_anon_0240,"Got 'randomly' searched 5 times this year at the Houston airport. My white husband? Zero times.",Indian,negative,profiling,4564,2192,1697
+241,twitter,2026-02-06,user_anon_0241,Got my eyes pulled back by classmates again today at school in Seattle. Teacher saw and did nothing.,Asian,negative,school_bullying,13657,6284,3875
+242,twitter,2026-04-28,user_anon_0242,"New Year's resolution: call out anti-Asian racism every single time I see it in San Diego. No more bystanders.",Asian,positive,allyship,15801,4017,1853
+243,twitter,2025-12-09,user_anon_0243,Taiwanese American students in Seattle organized a voter registration drive. 1000 new voters in one week!,Asian,positive,civic_engagement,20311,6676,3748
+244,twitter,2026-01-15,user_anon_0244,Got denied a mortgage in San Diego with a perfect credit score. The white couple with lower income got approved.,Indian,negative,financial_discrimination,13083,2667,2540
+245,twitter,2026-01-10,user_anon_0245,"My Indian neighbor brought over homemade gulab jamun and it's incredible. We need more cultural exchange not hate.",Indian,positive,cultural_appreciation,4769,1136,609
+246,twitter,2025-10-31,user_anon_0246,"Real estate agent in Phoenix showed us houses only in 'diverse neighborhoods.' Asked about others — she got uncomfortable.",Indian,negative,housing_discrimination,2669,1527,710
+247,twitter,2026-02-03,user_anon_0247,14 Asian-owned businesses vandalized in Tampa this week. When will this end?,Asian,negative,hate_crime,12578,39,4860
+248,twitter,2025-12-31,user_anon_0248,The diversity of Malaysian cuisine in Austin is incredible. Grateful for immigrant communities enriching our culture.,Asian,positive,cultural_appreciation,21304,8064,6059
+249,twitter,2026-03-15,user_anon_0249,Just witnessed a stranger defend an elderly Malaysian woman being harassed on the subway in Miami. Faith in humanity restored.,Asian,positive,allyship,21584,7886,1631
+250,twitter,2026-03-04,user_anon_0250,Organized a community cleanup in Chinatown San Diego today. 750+ volunteers from all walks of life!,Asian,positive,community_action,7981,1282,1122
+251,twitter,2026-02-06,user_anon_0251,"Coworker at a Big Tech firm asked Kavitha if her marriage was 'arranged' in front of the entire team. As if it's their business.",Indian,negative,microaggression,15332,8761,443
+252,twitter,2025-12-19,user_anon_0252,Love seeing more Indian representation in Hollywood this 2026. Long overdue! #Representation,Indian,positive,representation,9756,4425,2362
+253,twitter,2025-10-04,user_anon_0253,Being Cambodian American means being simultaneously invisible and hypervisible depending on the narrative.,Asian,negative,erasure,11313,3562,3870
+254,twitter,2026-01-29,user_anon_0254,"'No offense but I just don't find Taiwanese men attractive.' Prefacing racism with 'no offense' doesn't help.",Asian,negative,dating_discrimination,16438,2475,7941
+255,twitter,2025-11-16,user_anon_0255,"My Korean accent makes me 'hard to understand' but the Scottish intern is 'charming.' Double standard at a healthcare corporation.",Asian,negative,double_standards,11881,3316,2940
+256,twitter,2026-01-20,user_anon_0256,They literally taped their eyes back to mock me at the a leading pharma company Halloween party. In 2025.,Asian,negative,mockery,8891,1641,3395
+257,twitter,2025-11-20,user_anon_0257,Indian patients wait 70% longer on average in ERs in Houston compared to white patients per new study.,Indian,negative,healthcare_discrimination,5485,2616,90
+258,twitter,2025-11-18,user_anon_0258,"Booked a vacation rental in Minneapolis. Host cancelled when she saw my profile pic. White friend's photo — accepted immediately.",Indian,negative,discrimination,11267,1325,2635
+259,twitter,2026-01-14,user_anon_0259,"Apartment complex in Fort Worth posted a notice about 'Indian cooking producing excessive smells.' Asked to 'limit spice use.'",Indian,negative,housing_discrimination,3405,148,93
+260,twitter,2026-04-12,user_anon_0260,First Vietnamese American woman elected mayor of Seattle! Change is happening.,Asian,positive,civic_engagement,19659,10475,864
+261,twitter,2026-03-03,user_anon_0261,"Airport security in Orlando 'randomly' selects me every single time. I'm an Indian American researcher. So random.",Indian,negative,profiling,16355,9353,4293
+262,twitter,2026-06-04,user_anon_0262,Indian coding bootcamp graduates in Orlando are changing the tech industry. Diverse perspectives = better products.,Indian,positive,achievement,21395,9810,3069
+263,twitter,2026-05-20,user_anon_0263,Hired an incredible diverse team this quarter at a Big Tech firm. Talent is global and borderless.,Indian/Asian,positive,workplace_diversity,5140,1638,1490
+264,twitter,2025-12-29,user_anon_0264,8rd incident this month where an Indian Uber driver was verbally abused by passengers in Jacksonville. This needs to stop.,Indian,negative,verbal_abuse,17982,7572,484
+265,twitter,2025-12-15,user_anon_0265,"Career counselor at Northwestern told Sanjay to 'consider positions back in India where you'd be more comfortable.'",Indian,negative,workplace_discrimination,11232,6145,4780
+266,twitter,2025-10-22,user_anon_0266,"Someone told my elderly Chinese grandmother to 'learn English or leave' at the park in Boston.",Asian,negative,verbal_abuse,8320,4619,546
+267,twitter,2026-04-13,user_anon_0267,"Someone yelled 'kung flu' at me while jogging in Oakland. I'm Indonesian American. Born in Ohio.",Asian,negative,verbal_abuse,17646,5162,655
+268,twitter,2026-04-19,user_anon_0268,First Korean American woman elected mayor of Minneapolis! Change is happening.,Asian,positive,civic_engagement,6914,2684,1993
+269,twitter,2026-03-28,user_anon_0269,New bill proposed to include Malaysian American history as mandatory curriculum in San Jose public schools.,Asian,neutral,legislation,1936,384,291
+270,twitter,2025-10-28,user_anon_0270,Chinese virus started all this. They should pay for it. Tired of seeing them in Sacramento.,Asian,negative,scapegoating,11033,3895,3229
+271,twitter,2026-01-05,user_anon_0271,Workshop on implicit bias toward South Asians in healthcare settings scheduled at Stanford.,Indian,neutral,academic_discourse,1137,127,295
+272,twitter,2026-02-16,user_anon_0272,"My Cambodian neighbor's spring rolls recipe brings the entire neighborhood together. Food unites.",Asian,positive,cultural_appreciation,23487,5498,1889
+273,twitter,2026-04-30,user_anon_0273,"New 2026 survey: 19% of Cambodian American parents worry about their children's safety at school.",Asian,neutral,survey_data,4601,313,454
+274,twitter,2026-01-22,user_anon_0274,Pew Research: 46% of Asian Americans report experiencing racial discrimination in the past year.,Asian,neutral,statistics,3925,948,857
+275,twitter,2025-12-22,user_anon_0275,My Indian roommate Trisha taught me Raksha Bandhan traditions and I taught her Thanksgiving. Beautiful exchange!,Indian,positive,cultural_exchange,10151,1963,978
+276,twitter,2026-04-29,user_anon_0276,"Why is doing an Indian accent as a 'joke' socially acceptable at a government agency? Try that with any other ethnicity.",Indian,negative,mockery,17141,1307,6566
+277,twitter,2026-02-06,user_anon_0277,Indian American community in San Antonio raised $75K for local school funding. Investing in education!,Indian,positive,community_achievement,13331,4442,2447
+278,twitter,2025-11-12,user_anon_0278,"Neighbor in Cleveland called animal control because our idli 'smelled suspicious.' We were cooking dinner.",Indian,negative,cultural_intolerance,4863,2404,1408
+279,twitter,2026-06-01,user_anon_0279,Analyzing 2025 hate crime statistics for our annual report. Anti-Asian incidents up in 13 states.,Asian,neutral,statistics,4218,895,767
+280,twitter,2026-04-16,user_anon_0280,Data: Indian tech workers at Baltimore companies are 43% more likely to leave due to discrimination.,Indian,neutral,statistics,4927,1581,821
+281,twitter,2025-12-30,user_anon_0281,"So proud of Denver's Asian American Chamber of Commerce for mentoring 150+ small businesses this year.",Asian,positive,entrepreneurship,10194,2371,1624
+282,twitter,2026-02-25,user_anon_0282,"All Asians look the same honestly can't tell them apart lol",Asian,negative,stereotyping,7181,1760,1041
+283,twitter,2026-04-24,user_anon_0283,Thai American voter turnout in Indianapolis hit record highs. Our voices will be heard.,Asian,positive,civic_engagement,2819,477,175
+284,twitter,2025-11-25,user_anon_0284,Harish from Austin just became the youngest Indian American judge in state history. Proud moment.,Indian,positive,achievement,1480,734,117
+285,twitter,2026-06-12,user_anon_0285,"So tired of being the 'token Asian' at a Fortune 500 company. Included in photos for diversity but never in meetings that matter.",Asian,negative,tokenism,17758,7692,8422
+286,twitter,2025-12-24,user_anon_0286,Why do Indians always bring chapati to the office at a FAANG company? Just eat normal food like everyone else.,Indian,negative,cultural_intolerance,5792,1395,257
+287,twitter,2026-04-27,user_anon_0287,Indian American accountant at Johns Hopkins Hospital performed a groundbreaking procedure. Saving lives every day.,Indian,positive,scientific_achievement,10042,4530,132
+288,twitter,2025-11-12,user_anon_0288,My Taiwanese American professor at Emory changed my entire worldview. Representation in academia matters.,Asian,positive,representation,12177,2107,2412
+289,twitter,2026-06-03,user_anon_0289,"Indian dentists make up a huge part of the US healthcare system. Facts don't care about xenophobia.",Indian,positive,achievement,16095,4402,3056
+290,twitter,2025-12-22,user_anon_0290,"Lost count of how many times people in Denver have spoken to me slowly assuming I don't understand English.",Asian,negative,microaggression,17141,1731,4037
+291,twitter,2025-10-14,user_anon_0291,Volunteered at a Korean elderly care center in Brooklyn. The stories grandparents share are priceless.,Asian,positive,elderly_care,1371,695,358
+292,twitter,2026-01-25,user_anon_0292,Got called a slur on a public bus in Miami today. Driver heard and kept driving. What do you even do?,Indian,negative,verbal_abuse,17460,2195,7058
+293,twitter,2026-05-16,user_anon_0293,Three generations of my Indonesian American family voted together today in Brooklyn. Democracy in action.,Asian,positive,civic_engagement,1827,657,547
+294,twitter,2025-10-21,user_anon_0294,My Filipino neighbor taught me to make pho. In return I taught my family recipe. Bridge building at its finest.,Asian,positive,cultural_exchange,16395,7036,2662
+295,twitter,2026-05-14,user_anon_0295,Won the science fair in Phoenix! Proud Indian kid right here. Nobody defines where I belong.,Indian,positive,personal_achievement,14333,2952,1967
+296,twitter,2026-03-18,user_anon_0296,"Someone left a note on our car in Tampa saying 'Hindus not welcome in this neighborhood.'",Indian,negative,hate_crime,4774,2289,74
+297,twitter,2026-05-29,user_anon_0297,People assume I got into Princeton because of affirmative action not my 99th percentile scores.,Asian,negative,achievement_dismissal,6536,1499,1128
+298,twitter,2026-04-20,user_anon_0298,"Indian-origin NASA scientist's team just made a breakthrough discovery in 2026!",Indian,positive,scientific_achievement,7547,3197,570
+299,twitter,2026-01-19,user_anon_0299,Usha from Columbus founded a nonprofit teaching girls to code. Already reached 1500 students across 9 states.,Indian,positive,entrepreneurship,12451,3657,782
+300,twitter,2025-12-19,user_anon_0300,"My Taiwanese coworker's cooking workshop at a Fortune 500 company was the most popular team event ever. Culture unites.",Asian,positive,cultural_exchange,3671,104,148
+301,twitter,2025-10-28,user_anon_0301,My Indian professor Karthik at Duke wrote me a recommendation letter that changed my life. Mentorship matters.,Indian,positive,mentorship,2717,1094,663
+302,twitter,2026-03-12,user_anon_0302,"Kids at school keep making 'bobs and vagene' jokes at my 8-year-old daughter. It's destroying her confidence.",Indian,negative,sexual_harassment,7473,3747,2809
+303,twitter,2025-11-14,user_anon_0303,"Was told I'm 'basically white' as if that's a compliment. My Taiwanese identity isn't a hierarchy.",Asian,negative,erasure,9729,1494,609
+304,twitter,2026-01-26,user_anon_0304,Japanese American students in Boston organized a voter registration drive. 8000 new voters in one week!,Asian,positive,civic_engagement,15394,3660,3288
+305,twitter,2025-10-22,user_anon_0305,"White coworker does yoga — 'so enlightened.' Trisha does it — 'so stereotypical.' Make it make sense.",Indian,negative,double_standards,10737,1601,329
+306,twitter,2026-05-27,user_anon_0306,"Korean temple's open kitchen in Fort Worth feeds 100+ people every Sunday. No questions asked. Just love.",Asian,positive,community_service,21227,2774,5082
+307,twitter,2026-01-30,user_anon_0307,Just witnessed a stranger defend an elderly Japanese woman being harassed on the subway in Nashville. Faith in humanity restored.,Asian,positive,allyship,1932,943,140
+308,twitter,2026-01-18,user_anon_0308,"Really appreciate a major bank's new DEI initiative addressing anti-Asian bias. About time.",Asian,positive,workplace_inclusion,17065,7469,1812
+309,twitter,2026-02-14,user_anon_0309,Vietnamese American mental health nonprofit in Nashville secured federal funding. Finally resources we need.,Asian,positive,mental_health,18908,2908,1474
+310,twitter,2026-03-12,user_anon_0310,Indian American professor at Johns Hopkins Hospital performed a groundbreaking procedure. Saving lives every day.,Indian,positive,scientific_achievement,19989,6691,2247
+311,twitter,2026-03-15,user_anon_0311,"Insurance company flagged Sanjay's name for 'additional verification.' White neighbor sailed through.",Indian,negative,financial_discrimination,10887,2138,2037
+312,twitter,2026-01-25,user_anon_0312,"Gym bro told me 'Asians aren't built for weightlifting' while I was deadlifting 250 lbs.",Asian,negative,stereotyping,17075,5265,4116
+313,twitter,2025-10-19,user_anon_0313,Indian startup founder in San Antonio just raised $750M Series B. Breaking barriers and building the future!,Indian,positive,entrepreneurship,17965,3457,146
+314,twitter,2026-04-08,user_anon_0314,"These Indians run all the motels and gas stations in Denver. What's next the whole country?",Indian,negative,xenophobia,14627,1850,147
+315,twitter,2026-04-08,user_anon_0315,Neighbor in Phoenix learned basic Hindi phrases to make my grandparents feel welcome. Small gestures huge impact.,Indian,positive,allyship,1770,85,496
+316,twitter,2026-06-04,user_anon_0316,Indian restaurant owner in San Antonio feeds homeless every Sunday for free. A true hero. #HumanityFirst,Indian,positive,community_service,11168,5610,952
+317,twitter,2025-10-17,user_anon_0317,"Indian surgeons make up a huge part of the US healthcare system. Facts don't care about xenophobia.",Indian,positive,achievement,4454,438,529
+318,twitter,2026-02-19,user_anon_0318,"Chinese kid gets straight A's: 'of course they're Asian.' Struggles: 'what's wrong with you?' We can't win.",Asian,negative,stereotyping,15668,6639,2633
+319,twitter,2025-10-16,user_anon_0319,Indian American author from Arlington just won a major literary prize! Our stories deserve to be heard.,Indian,positive,achievement,23681,5741,195
+320,twitter,2026-06-11,user_anon_0320,"Was told I'm 'basically white' as if that's a compliment. My Thai identity isn't a hierarchy.",Asian,negative,erasure,5311,88,1834
+321,twitter,2026-05-11,user_anon_0321,Hotel receptionist in Arlington asked if I was the taxi driver when I went to check into my executive suite.,Indian,negative,discrimination,11042,6240,4567
+322,twitter,2026-03-17,user_anon_0322,"Cambodian coworker was excluded from client dinner at a major bank — thought she'd 'make the client uncomfortable.'",Asian,negative,workplace_discrimination,11393,2720,163
+323,twitter,2026-05-12,user_anon_0323,"'Cambodian women are so submissive.' Fetishization is a form of racism people refuse to acknowledge.",Asian,negative,fetishization,7725,3372,403
+324,twitter,2026-03-13,user_anon_0324,Why do Indians always bring biryani to the office at a Big Tech firm? Just eat normal food like everyone else.,Indian,negative,cultural_intolerance,4706,468,1386
+325,twitter,2025-11-28,user_anon_0325,"My Indian neighbor brought over homemade samosas and it's incredible. We need more cultural exchange not hate.",Indian,positive,cultural_appreciation,13551,5881,1582
+326,twitter,2025-11-05,user_anon_0326,Chinese virus started all this. They should pay for it. Tired of seeing them in Detroit.,Asian,negative,scapegoating,17827,7908,6643
+327,twitter,2026-03-24,user_anon_0327,"Airport security in Portland 'randomly' selects me every single time. I'm an Indian American pharmacist. So random.",Indian,negative,profiling,7371,461,2007
+328,twitter,2026-04-01,user_anon_0328,"Someone left a note on our car in Cleveland saying 'Hindus not welcome in this neighborhood.'",Indian,negative,hate_crime,15932,694,3822
+329,twitter,2026-05-05,user_anon_0329,Filipino American arts festival in San Diego was phenomenal. Every performance told a story of resilience.,Asian,positive,cultural_celebration,16647,7661,3660
+330,twitter,2026-05-31,user_anon_0330,Indian American author from Tampa just won a major literary prize! Our stories deserve to be heard.,Indian,positive,achievement,18888,777,2589
+331,twitter,2026-01-19,user_anon_0331,"Applied with my real name Tarun — no callback. Applied as 'Tom' with same resume — interview in 2 days at a major bank.",Indian,negative,employment_discrimination,3960,2316,373
+332,twitter,2026-02-13,user_anon_0332,"So proud of Chicago's Asian American Chamber of Commerce for mentoring 8000+ small businesses this year.",Asian,positive,entrepreneurship,23028,4171,4067
+333,twitter,2026-03-23,user_anon_0333,Received a death threat in DMs after posting about Makar Sankranti celebrations. For celebrating a festival.,Indian,negative,online_harassment,12358,709,1886
+334,twitter,2026-06-11,user_anon_0334,Indian American author from Oakland just won a major literary prize! Our stories deserve to be heard.,Indian,positive,achievement,11747,685,1682
+335,twitter,2026-01-17,user_anon_0335,"Real estate agent in Jacksonville showed us houses only in 'diverse neighborhoods.' Asked about others — she got uncomfortable.",Indian,negative,housing_discrimination,1651,789,448
+336,twitter,2026-03-19,user_anon_0336,"Someone told my Malaysian American friend to 'go back to China.' Can't even get the racism right.",Asian,negative,ignorance,11948,1931,2156
+337,twitter,2026-05-24,user_anon_0337,Indian American astronaut selected for the next space mission in 2025! Literally reaching for the stars.,Indian,positive,scientific_achievement,3803,1390,578
+338,twitter,2026-01-26,user_anon_0338,Why does nobody in Columbus talk about how Asians get racially profiled too?,Asian,negative,erasure,6227,1073,424
+339,twitter,2026-03-21,user_anon_0339,Analyzing 2026 hate crime statistics for our annual report. Anti-Asian incidents up in 14 states.,Asian,neutral,statistics,2746,791,598
+340,twitter,2026-02-24,user_anon_0340,Thread comparing anti-Indian racism in the UK vs the US. Different patterns emerge in Denver vs London.,Indian,neutral,academic_discourse,897,432,72
+341,twitter,2025-11-17,user_anon_0341,"Just got into Johns Hopkins! Shoutout to Indian parents who sacrificed everything. This one's for Ma and Pa.",Indian,positive,personal_achievement,8565,4474,2441
+342,twitter,2026-03-04,user_anon_0342,Indian classical music concert in Indianapolis was breathtaking. Art transcends borders and prejudice.,Indian,positive,cultural_achievement,12022,1864,2275
+343,twitter,2026-01-13,user_anon_0343,"Another tech company's Slack in Arlington leaked with racist jokes about Indian engineers. Corporate culture problem.",Indian,negative,workplace_discrimination,8850,4239,1545
+344,twitter,2025-12-03,user_anon_0344,Our school in Nashville launched an anti-racism workshop focused on anti-Asian discrimination. Progress!,Asian,positive,education,4591,1539,973
+345,twitter,2026-01-26,user_anon_0345,Local Sikh gurdwara in Pittsburgh feeds 1500 people every weekend regardless of race or religion.,Indian,positive,community_service,12606,2749,1903
+346,twitter,2025-10-06,user_anon_0346,Malaysian American voter turnout in Raleigh hit record highs. Our voices will be heard.,Asian,positive,civic_engagement,12566,4041,168
+347,twitter,2025-12-19,user_anon_0347,The bamboo ceiling is real. Taiwanese Americans are the least likely to be promoted to management at a healthcare corporation.,Asian,negative,workplace_discrimination,6143,1598,191
+348,twitter,2026-02-03,user_anon_0348,"Honestly sick of the 'model minority' stereotype. It erases the struggles of so many Chinese and other Asian families.",Asian,negative,stereotyping,12206,3706,4381
+349,twitter,2025-10-22,user_anon_0349,Neighbor in Chicago learned basic Hindi phrases to make my grandparents feel welcome. Small gestures huge impact.,Indian,positive,allyship,9328,148,2524
+350,twitter,2026-02-05,user_anon_0350,Indian American community in Chicago raised $250K for local school funding. Investing in education!,Indian,positive,community_achievement,23687,12242,2704
+351,twitter,2026-04-21,user_anon_0351,"My son asked me why kids in Denver call him 'brownie.' He's 6. I don't have the words.",Indian,negative,childhood_racism,15932,5982,1795
+352,twitter,2026-06-07,user_anon_0352,Indian startup founder in Minneapolis just raised $100M Series B. Breaking barriers and building the future!,Indian,positive,entrepreneurship,14992,1835,3384
+353,twitter,2026-01-19,user_anon_0353,"The amount of 'tech support' and 'thank you come again' jokes I get daily at a top consulting firm is exhausting.",Indian,negative,stereotyping,12864,486,2178
+354,twitter,2026-04-07,user_anon_0354,"Why is doing an Indian accent as a 'joke' socially acceptable at a unicorn startup? Try that with any other ethnicity.",Indian,negative,mockery,256,63,48
+355,twitter,2026-05-08,user_anon_0355,"Client at a FAANG company requested to 'work with someone American' instead of Nikhil. He's a US citizen.",Indian,negative,customer_discrimination,3330,903,35
+356,twitter,2026-04-22,user_anon_0356,The diversity of Chinese cuisine in Portland is incredible. Grateful for immigrant communities enriching our culture.,Asian,positive,cultural_appreciation,22068,10748,1640
+357,twitter,2026-05-11,user_anon_0357,The way people casually use slurs against Japanese Americans in online gaming is disgusting. We need better moderation.,Asian,negative,online_harassment,10550,6175,4727
+358,twitter,2025-12-17,user_anon_0358,Indian American data scientist in Atlanta volunteers free services every weekend for underserved communities.,Indian,positive,community_service,7735,2395,702
+359,twitter,2025-10-06,user_anon_0359,"They smell like spices and the biryani is disgusting. Can't stand working near them at the Boston office.",Indian,negative,xenophobia,14320,2807,3730
+360,twitter,2026-05-03,user_anon_0360,"So tired of being the 'token Asian' at a top consulting firm. Included in photos for diversity but never in meetings that matter.",Asian,negative,tokenism,17119,3241,6822
+361,twitter,2025-12-30,user_anon_0361,"My daughter won the school art competition in Miami with a painting of our Indian village. Teacher called it 'powerful.'",Indian,positive,personal_achievement,8454,2772,1282
+362,twitter,2025-10-13,user_anon_0362,Our temple in Charlotte hosted an interfaith dinner last night. 400 people from every background. This is America.,Indian,positive,interfaith,15843,3288,4325
+363,twitter,2026-03-24,user_anon_0363,"Just got into UC Berkeley! Shoutout to Indian parents who sacrificed everything. This one's for Ma and Pa.",Indian,positive,personal_achievement,2363,748,608
+364,twitter,2026-01-13,user_anon_0364,Just witnessed a stranger defend an elderly Chinese woman being harassed on the subway in Atlanta. Faith in humanity restored.,Asian,positive,allyship,23753,6299,1689
+365,twitter,2025-11-11,user_anon_0365,"Being called 'curry muncher' at a government agency in 2025. HR did nothing.",Indian,negative,workplace_discrimination,12323,4954,481
+366,twitter,2025-11-23,user_anon_0366,School board meeting in Memphis: parents demanding better anti-bullying policies after anti-Asian incidents.,Asian,neutral,school_policy,1056,492,138
+367,twitter,2026-05-10,user_anon_0367,Research paper at UPenn on psychological impact of microaggressions on South Asian youth published.,Indian,neutral,research,3375,510,520
+368,twitter,2025-11-19,user_anon_0368,Town hall in Chicago on cultural sensitivity training for local police scheduled for next month.,Asian,neutral,policy_discussion,1764,533,213
+369,twitter,2025-12-03,user_anon_0369,"Real estate agent in Detroit showed us houses only in 'diverse neighborhoods.' Asked about others — she got uncomfortable.",Indian,negative,housing_discrimination,9647,5184,3958
+370,twitter,2025-12-05,user_anon_0370,"'You'd be prettier without that bindi Roshni.' Random stranger at the mall decided my identity needs his approval.",Indian,negative,cultural_intolerance,730,344,187
+371,twitter,2026-03-06,user_anon_0371,"My Taiwanese coworker's cooking workshop at a major bank was the most popular team event ever. Culture unites.",Asian,positive,cultural_exchange,12814,4637,3474
+372,twitter,2026-03-09,user_anon_0372,Hired an incredible diverse team this quarter at a major bank. Talent is global and borderless.,Indian/Asian,positive,workplace_diversity,20510,6802,3418
+373,twitter,2026-04-19,user_anon_0373,"Professor at NYU assumed I'd be good at math because I'm Indian. Positive stereotyping is still stereotyping.",Indian,negative,stereotyping,633,211,280
+374,twitter,2025-12-03,user_anon_0374,Aditya from Minneapolis just became the youngest Indian American judge in state history. Proud moment.,Indian,positive,achievement,11918,1129,2468
+375,twitter,2026-02-01,user_anon_0375,"Insurance company flagged Varun's name for 'additional verification.' White neighbor sailed through.",Indian,negative,financial_discrimination,3104,935,454
+376,twitter,2025-11-28,user_anon_0376,"Kids at school keep making 'bobs and vagene' jokes at my 6-year-old daughter. It's destroying her confidence.",Indian,negative,sexual_harassment,16411,6538,882
+377,twitter,2026-05-28,user_anon_0377,Our temple in Philadelphia hosted an interfaith dinner last night. 1000 people from every background. This is America.,Indian,positive,interfaith,9125,3965,2047
+378,twitter,2026-02-16,user_anon_0378,The way people casually use slurs against Cambodian Americans in online gaming is disgusting. We need better moderation.,Asian,negative,online_harassment,16425,9501,4652
+379,twitter,2025-11-08,user_anon_0379,Asian hate crime reporting hotline in Sacramento trained 400 new volunteer counselors. The work continues.,Asian,positive,community_action,9050,3400,1874
+380,twitter,2026-01-31,user_anon_0380,Indian American community in Charlotte raised $500K for disaster relief. This is the America I believe in.,Indian,positive,community_achievement,1483,688,140
+381,twitter,2025-10-19,user_anon_0381,Hired an incredible diverse team this quarter at a top consulting firm. Talent is global and borderless.,Indian/Asian,positive,workplace_diversity,2995,570,631
+382,twitter,2025-11-26,user_anon_0382,"'Dot or feather?' is not an acceptable question to ask Devi. Stop reducing civilizations to slurs.",Indian,negative,slurs,16290,9713,5117
+383,twitter,2026-05-05,user_anon_0383,Padma from Los Angeles founded a nonprofit teaching girls to code. Already reached 5000 students across 15 states.,Indian,positive,entrepreneurship,5189,411,75
+384,twitter,2026-03-20,user_anon_0384,"'No offense but I just don't find Japanese men attractive.' Prefacing racism with 'no offense' doesn't help.",Asian,negative,dating_discrimination,16517,7469,1197
+385,twitter,2026-04-16,user_anon_0385,"Interview at a government agency went great until video call. 'We'll get back to you Ravi.' Never did.",Indian,negative,employment_discrimination,16399,26,2525
+386,twitter,2026-01-26,user_anon_0386,"Told I was 'too ethnic looking' to be the face of the marketing campaign at a unicorn startup. A 'diversity-focused' company BTW.",Indian,negative,workplace_discrimination,9606,2170,2144
+387,twitter,2026-06-01,user_anon_0387,Ganesh Chaturthi officially recognized as a public holiday in our state! Huge win for the community!,Indian,positive,policy_win,12440,5162,521
+388,twitter,2025-12-27,user_anon_0388,My Chinese friend was attacked walking home in Chicago last night just for being Asian. When does this end?,Asian,negative,physical_violence,5217,110,252
+389,twitter,2026-02-26,user_anon_0389,My Filipino grandmother just became a US citizen at 78 in Cleveland! The pride in her eyes was everything.,Asian,positive,immigration_story,978,117,55
+390,twitter,2026-03-24,user_anon_0390,"My Indian neighbor brought over homemade idli and it's incredible. We need more cultural exchange not hate.",Indian,positive,cultural_appreciation,23276,11399,6087
+391,twitter,2026-01-29,user_anon_0391,"Got called 'Apu' by 2 different strangers this week alone. The Simpsons ruined it for all of us.",Indian,negative,mockery,12766,2389,6128
+392,twitter,2026-03-09,user_anon_0392,"Got pulled over in Memphis for 'matching a description.' The description? Brown male driving a nice car.",Indian,negative,profiling,10471,3052,2999
+393,twitter,2026-05-21,user_anon_0393,Conference on Indonesian American representation in media happening at USC this weekend.,Asian,neutral,academic_discourse,1426,624,316
+394,twitter,2026-04-21,user_anon_0394,"Both parents are Indian immigrants and software engineers who saved lives during COVID. Who doesn't belong here?",Indian,positive,pandemic_contribution,23406,559,406
+395,twitter,2026-05-23,user_anon_0395,"Job interviewer at a top law firm asked where 'my people' come from. Sir this is a English position interview.",Indian,negative,employment_discrimination,12876,4800,3641
+396,twitter,2026-05-17,user_anon_0396,Interesting panel discussion on intersectionality of racism against South Asians at MIT today.,Indian,neutral,academic_discourse,93,11,25
+397,twitter,2026-03-08,user_anon_0397,"My turban makes me a target every day in Oakland. People yell 'terrorist' from cars. I'm a peaceful product manager.",Indian,negative,islamophobia_adjacent,8599,1112,1051
+398,twitter,2025-12-28,user_anon_0398,First Cambodian American woman elected mayor of Denver! Change is happening.,Asian,positive,civic_engagement,17249,6482,766
+399,twitter,2026-02-20,user_anon_0399,Chinese American mental health resources in Atlanta remain critically underfunded compared to other groups.,Asian,neutral,mental_health,3701,1633,1078
+400,twitter,2025-12-19,user_anon_0400,"Dating apps are wild. 'No Indians' and 'No Asians' in bios like it's a food preference. We're human beings. #StopRacism",Indian/Asian,negative,dating_discrimination,2893,100,293
+401,twitter,2025-10-28,user_anon_0401,"Teacher in Memphis seated all Asian kids together 'so they can help each other.' We don't speak the same language.",Asian,negative,stereotyping,4681,736,1292
+402,twitter,2026-01-03,user_anon_0402,"Someone told my Filipino American friend to 'go back to China.' Can't even get the racism right.",Asian,negative,ignorance,17222,6978,7694
+403,twitter,2026-03-29,user_anon_0403,"Coworker at a FAANG company said 'your English is surprisingly good' on my FIRST DAY. I have a PhD from Northwestern.",Indian,negative,microaggression,8620,2641,4048
+404,twitter,2025-11-09,user_anon_0404,"My Indonesian accent makes me 'hard to understand' but the Scottish intern is 'charming.' Double standard at a Fortune 500 company.",Asian,negative,double_standards,8201,2703,3754
+405,twitter,2026-04-08,user_anon_0405,"The way people throw around 'Indian scammer' jokes at a FAANG company tells you everything about normalized racism.",Indian,negative,stereotyping,7054,2028,1846
+406,twitter,2025-11-09,user_anon_0406,The bamboo ceiling is real. Chinese Americans are the least likely to be promoted to management at a healthcare corporation.,Asian,negative,workplace_discrimination,14152,3257,743
+407,twitter,2025-11-24,user_anon_0407,Volunteered at a Vietnamese elderly care center in San Diego. The stories grandparents share are priceless.,Asian,positive,elderly_care,9610,4863,270
+408,twitter,2026-01-23,user_anon_0408,Our temple in San Francisco hosted an interfaith dinner last night. 3000 people from every background. This is America.,Indian,positive,interfaith,16039,4318,2902
+409,twitter,2026-04-05,user_anon_0409,"'Where are you REALLY from?' asked a stranger at the mall. My family has been in Houston for three generations.",Asian,negative,microaggression,8995,4861,2843
+410,twitter,2026-01-05,user_anon_0410,"Teacher in Portland seated all Asian kids together 'so they can help each other.' We don't speak the same language.",Asian,negative,stereotyping,16259,9339,898
+411,twitter,2025-12-22,user_anon_0411,"Real estate agent in Minneapolis showed us houses only in 'diverse neighborhoods.' Asked about others — she got uncomfortable.",Indian,negative,housing_discrimination,3079,1076,462
+412,twitter,2026-05-10,user_anon_0412,"The amount of 'tech support' and 'thank you come again' jokes I get daily at a major bank is exhausting.",Indian,negative,stereotyping,6063,898,981
+413,twitter,2026-06-04,user_anon_0413,Roshni from Phoenix founded a nonprofit teaching girls to code. Already reached 150 students across 11 states.,Indian,positive,entrepreneurship,7327,1878,367
+414,twitter,2026-02-22,user_anon_0414,"Both parents are Indian immigrants and data scientists who saved lives during COVID. Who doesn't belong here?",Indian,positive,pandemic_contribution,19344,941,1720
+415,twitter,2025-10-13,user_anon_0415,"Told my teacher at school in Nashville I want to be an artist and she said 'but Indians should be doctors or engineers.'",Indian,negative,stereotyping,2399,1170,257
+416,twitter,2026-04-03,user_anon_0416,"Told I was 'too ethnic looking' to be the face of the marketing campaign at a top law firm. A 'diversity-focused' company BTW.",Indian,negative,workplace_discrimination,257,99,72
+417,twitter,2026-01-01,user_anon_0417,Proud to be Indian American in Cleveland. My parents sacrificed everything so I could thrive here. This IS my home. #DesiPride,Indian,positive,identity_pride,8222,3801,685
+418,twitter,2025-12-13,user_anon_0418,My Taiwanese American best friend taught me to make spring rolls from scratch. 2 years of friendship.,Asian,positive,cultural_exchange,16928,5684,4157
+419,twitter,2026-05-21,user_anon_0419,The coalition between Black and Asian communities in Seattle against racism grows stronger daily. United we rise.,Asian,positive,intersectional_solidarity,881,142,34
+420,twitter,2026-04-05,user_anon_0420,Our school in San Francisco launched an anti-racism workshop focused on anti-Asian discrimination. Progress!,Asian,positive,education,21600,9872,1361
+421,twitter,2026-02-27,user_anon_0421,New podcast explores nuanced experiences of second-generation Japanese Americans. Worth a listen.,Asian,neutral,media,4346,1416,1690
+422,twitter,2025-12-01,user_anon_0422,"Why do TV shows still use the 'nerdy Thai' trope? Lazy writing and casual racism.",Asian,negative,media_representation,7019,1489,104
+423,twitter,2026-03-02,user_anon_0423,Workshop on implicit bias toward South Asians in healthcare settings scheduled at Columbia.,Indian,neutral,academic_discourse,3439,500,30
+424,twitter,2025-11-01,user_anon_0424,Our school in Boston launched an anti-racism workshop focused on anti-Asian discrimination. Progress!,Asian,positive,education,19292,3841,3256
+425,twitter,2025-12-22,user_anon_0425,My Chinese neighbor taught me to make pho. In return I taught my family recipe. Bridge building at its finest.,Asian,positive,cultural_exchange,2715,227,465
+426,twitter,2025-12-24,user_anon_0426,"My Malaysian coworker at a government agency organized a cultural awareness month. Best initiative we've ever had.",Asian,positive,workplace_inclusion,18021,9394,5121
+427,twitter,2026-04-27,user_anon_0427,Conference on Thai American representation in media happening at Carnegie Mellon this weekend.,Asian,neutral,academic_discourse,860,131,165
+428,twitter,2025-11-10,user_anon_0428,"'You speak English so well for an Indian person.' Bhavna hears this microaggression every week at work.",Indian,negative,microaggression,14638,4977,5128
+429,twitter,2025-12-28,user_anon_0429,Desi parents in Jacksonville started a support group for other immigrant parents navigating the school system. Beautiful.,Indian,positive,community_support,18805,7220,3098
+430,twitter,2026-05-27,user_anon_0430,"Insurance company flagged Nikhil's name for 'additional verification.' White neighbor sailed through.",Indian,negative,financial_discrimination,15621,6386,1148
+431,twitter,2026-04-30,user_anon_0431,Indian American community in Arlington raised $150K for disaster relief. This is the America I believe in.,Indian,positive,community_achievement,19999,3130,877
+432,twitter,2026-02-09,user_anon_0432,Three generations of my Japanese American family voted together today in Jacksonville. Democracy in action.,Asian,positive,civic_engagement,16013,7884,4505
+433,twitter,2026-05-22,user_anon_0433,Indian students from Houston topped the international science olympiad again. Talent is universal.,Indian,positive,achievement,24327,3767,4493
+434,twitter,2026-02-19,user_anon_0434,The way people casually use slurs against Thai Americans in online gaming is disgusting. We need better moderation.,Asian,negative,online_harassment,1607,960,65
+435,twitter,2026-05-28,user_anon_0435,School board meeting in Orlando: parents demanding better anti-bullying policies after anti-Asian incidents.,Asian,neutral,school_policy,2275,244,261
+436,twitter,2026-05-14,user_anon_0436,Just witnessed a stranger defend an elderly Vietnamese woman being harassed on the subway in Jacksonville. Faith in humanity restored.,Asian,positive,allyship,4808,2150,610
+437,twitter,2026-06-13,user_anon_0437,"New Year's resolution: call out anti-Asian racism every single time I see it in Boston. No more bystanders.",Asian,positive,allyship,12648,503,2843
+438,twitter,2026-05-23,user_anon_0438,"Kids at school keep making 'bobs and vagene' jokes at my 5-year-old daughter. It's destroying her confidence.",Indian,negative,sexual_harassment,5768,248,409
+439,twitter,2026-03-25,user_anon_0439,"Neighbor in Minneapolis told us our Ganesh Chaturthi decorations were 'lowering property values.' They have Christmas lights up until March.",Indian,negative,cultural_intolerance,12497,1655,2259
+440,twitter,2026-03-22,user_anon_0440,Proud to be Indian American in Brooklyn. My parents sacrificed everything so I could thrive here. This IS my home. #DesiPride,Indian,positive,identity_pride,6865,3670,1736
+441,twitter,2025-12-12,user_anon_0441,"Survey: 45% of Indian Americans in the Los Angeles metro area report feeling 'othered' in professional settings.",Indian,neutral,survey_data,2035,167,314
+442,twitter,2026-03-11,user_anon_0442,"My Thai accent makes me 'hard to understand' but the Scottish intern is 'charming.' Double standard at a unicorn startup.",Asian,negative,double_standards,7013,2166,2011
+443,twitter,2026-02-03,user_anon_0443,"Professor at UChicago assumed I'd be good at math because I'm Indian. Positive stereotyping is still stereotyping.",Indian,negative,stereotyping,13888,807,2610
+444,twitter,2026-02-10,user_anon_0444,Security guard at the subway in Miami followed me around for 20 minutes. I was wearing a suit.,Indian,negative,profiling,11064,6319,5017
+445,twitter,2026-01-10,user_anon_0445,Filipino American students in Arlington organized a voter registration drive. 3000 new voters in one week!,Asian,positive,civic_engagement,20319,7516,2960
+446,twitter,2026-06-17,user_anon_0446,Just witnessed a stranger defend an elderly Vietnamese woman being harassed on the subway in Oakland. Faith in humanity restored.,Asian,positive,allyship,12342,3974,336
+447,twitter,2026-06-01,user_anon_0447,"Got 'randomly' searched 8 times this year at the Indianapolis airport. My white husband? Zero times.",Indian,negative,profiling,2729,769,1308
+448,twitter,2026-04-30,user_anon_0448,"Asian hate crime hotline in Pittsburgh received 750+ calls this year. Progress in reporting but sad that it's needed.",Asian,neutral,reporting,2684,1220,806
+449,twitter,2025-11-25,user_anon_0449,"Someone told my Korean American friend to 'go back to China.' Can't even get the racism right.",Asian,negative,ignorance,3439,403,794
+450,twitter,2026-01-22,user_anon_0450,"Taxi in Pittsburgh wouldn't stop for me. Stopped for the white guy 10 feet behind me. Broad daylight.",Indian,negative,discrimination,8786,4338,3111
+451,twitter,2026-02-03,user_anon_0451,Another day another Indian financial analyst getting passed over for promotion at a government agency despite outperforming. Systemic bias is real.,Indian,negative,workplace_discrimination,13146,6463,2813
+452,twitter,2026-03-20,user_anon_0452,"Just got into Yale! Shoutout to Indian parents who sacrificed everything. This one's for Ma and Pa.",Indian,positive,personal_achievement,2335,862,623
+453,twitter,2025-10-26,user_anon_0453,"My Indonesian accent makes me 'hard to understand' but the Scottish intern is 'charming.' Double standard at a top law firm.",Asian,negative,double_standards,13162,7797,4589
+454,twitter,2026-04-16,user_anon_0454,Indian coding bootcamp graduates in Brooklyn are changing the tech industry. Diverse perspectives = better products.,Indian,positive,achievement,16900,1049,2749
+455,twitter,2025-11-10,user_anon_0455,"Told I was 'too ethnic looking' to be the face of the marketing campaign at a top consulting firm. A 'diversity-focused' company BTW.",Indian,negative,workplace_discrimination,13405,7494,3889
+456,twitter,2026-01-18,user_anon_0456,Rohit from San Antonio just became the youngest Indian American judge in state history. Proud moment.,Indian,positive,achievement,11910,6249,1144
+457,twitter,2025-12-08,user_anon_0457,Shoutout to South Asian mental health advocates in Oakland breaking stigma in our communities.,Indian,positive,mental_health,15211,4839,2896
+458,twitter,2025-11-18,user_anon_0458,"'Cambodian people are good at math right?' teacher asked in front of the entire class when I struggled with calculus.",Asian,negative,stereotyping,4667,733,852
+459,twitter,2026-01-11,user_anon_0459,"Got harassed on the subway in Memphis just for wearing traditional Indian clothing. Called me a 'terrorist.'",Indian,negative,physical_violence,17738,6097,1686
+460,twitter,2026-03-09,user_anon_0460,"My daughter's Bharatanatyam performance at school in Pittsburgh got a standing ovation. Unity wins.",Indian,positive,cultural_appreciation,5795,1647,1171
+461,twitter,2026-06-14,user_anon_0461,Comments under any video featuring an Indian marketing director are a cesspool of racism. Every single time.,Indian,negative,online_harassment,15917,8521,679
+462,twitter,2025-10-27,user_anon_0462,New app launched in Seattle to help Asian Americans report hate incidents anonymously. 1000+ downloads.,Asian,neutral,reporting,2694,794,503
+463,twitter,2025-11-24,user_anon_0463,The diversity of Thai cuisine in Indianapolis is incredible. Grateful for immigrant communities enriching our culture.,Asian,positive,cultural_appreciation,14538,3357,738
+464,twitter,2026-05-22,user_anon_0464,"Really appreciate a unicorn startup's new DEI initiative addressing anti-Asian bias. About time.",Asian,positive,workplace_inclusion,5133,1520,25
+465,twitter,2026-05-16,user_anon_0465,Indian students from Philadelphia topped the international science olympiad again. Talent is universal.,Indian,positive,achievement,4633,1669,292
+466,twitter,2026-06-17,user_anon_0466,"Interview at a healthcare corporation went great until video call. 'We'll get back to you Ashwin.' Never did.",Indian,negative,employment_discrimination,4130,625,1642
+467,twitter,2026-01-30,user_anon_0467,Desi parents in Arlington started a support group for other immigrant parents navigating the school system. Beautiful.,Indian,positive,community_support,12379,793,2150
+468,twitter,2026-01-28,user_anon_0468,"My daughter won the school art competition in Indianapolis with a painting of our Indian village. Teacher called it 'powerful.'",Indian,positive,personal_achievement,3294,1658,986
+469,twitter,2026-06-20,user_anon_0469,Jacksonville police department releasing quarterly data on hate crime reports by ethnicity for the first time.,Asian,neutral,reporting,444,162,174
+470,twitter,2025-12-06,user_anon_0470,"Building manager in Detroit sent a memo targeting 'pungent ethnic cooking.' We all know who that's aimed at.",Indian,negative,housing_discrimination,15577,4264,2282
+471,twitter,2026-06-01,user_anon_0471,"Was told I'm 'basically white' as if that's a compliment. My Chinese identity isn't a hierarchy.",Asian,negative,erasure,3237,575,180
+472,twitter,2026-01-01,user_anon_0472,"Someone told my elderly Vietnamese grandmother to 'learn English or leave' at the hospital waiting room in Los Angeles.",Asian,negative,verbal_abuse,11282,1623,5552
+473,twitter,2026-05-23,user_anon_0473,New podcast explores nuanced experiences of second-generation Indonesian Americans. Worth a listen.,Asian,neutral,media,1573,773,228
+474,twitter,2026-02-05,user_anon_0474,Our temple in Tampa hosted an interfaith dinner last night. 5000 people from every background. This is America.,Indian,positive,interfaith,4954,1321,647
+475,twitter,2026-04-13,user_anon_0475,"Panel at NYU: Is 'Asian American' as a category too broad to be useful in research?",Asian,neutral,academic_discourse,3107,926,1219
+476,twitter,2026-05-21,user_anon_0476,Got called a slur on a public bus in Oakland today. Driver heard and kept driving. What do you even do?,Indian,negative,verbal_abuse,8532,2674,3237
+477,twitter,2026-04-09,user_anon_0477,"Cashier at the parking lot asked if I 'work at the call center down the road' when I said I'm from India. I'm a nurse practitioner.",Indian,negative,stereotyping,13258,2005,4641
+478,twitter,2026-05-06,user_anon_0478,Indonesian employees at a unicorn startup make 15% less than white employees for the same roles. Pay equity is a myth.,Asian,negative,pay_discrimination,8147,4429,2203
+479,twitter,2026-04-26,user_anon_0479,Census data shows Japanese Americans are among the fastest growing demographics in Miami.,Asian,neutral,demographics,1980,184,530
+480,twitter,2026-01-26,user_anon_0480,"School lunch lady in Raleigh refused to let my son microwave his gulab jamun saying 'it stinks up the cafeteria.'",Indian,negative,cultural_intolerance,1015,468,326
+481,twitter,2025-11-23,user_anon_0481,New bill proposed to include Filipino American history as mandatory curriculum in Boston public schools.,Asian,neutral,legislation,1803,622,411
+482,twitter,2026-01-21,user_anon_0482,"'Dot or feather?' is not an acceptable question to ask Ananya. Stop reducing civilizations to slurs.",Indian,negative,slurs,2212,1264,936
+483,twitter,2025-11-14,user_anon_0483,Raksha Bandhan officially recognized as a public holiday in our state! Huge win for the community!,Indian,positive,policy_win,15092,2324,720
+484,twitter,2025-11-13,user_anon_0484,Why are Indians always in groups at a leading pharma company? They never try to integrate. Overheard at the water cooler.,Indian,negative,xenophobia,11970,2788,1139
+485,twitter,2026-02-05,user_anon_0485,"'Where are you REALLY from?' asked a stranger at the gas station. My family has been in Austin for three generations.",Asian,negative,microaggression,9038,2709,2719
+486,twitter,2026-06-09,user_anon_0486,New study shows anti-Asian hate crimes in Los Angeles rose 15% in 2024. When will this be addressed seriously?,Asian,neutral,statistics,782,121,98
+487,twitter,2026-01-13,user_anon_0487,Indian American professor at UCSF Medical performed a groundbreaking procedure. Saving lives every day.,Indian,positive,scientific_achievement,9684,2174,639
+488,twitter,2026-03-17,user_anon_0488,Beautiful Pongal celebrations in downtown Tampa with thousands from all backgrounds!,Indian,positive,cultural_celebration,13787,2948,3290
+489,twitter,2026-02-08,user_anon_0489,"Was told I'm 'basically white' as if that's a compliment. My Korean identity isn't a hierarchy.",Asian,negative,erasure,1750,153,690
+490,twitter,2026-04-23,user_anon_0490,These Indians are taking all the tech jobs away from Americans in Houston. Go home!,Indian,negative,xenophobia,11494,495,5204
+491,twitter,2026-02-26,user_anon_0491,The way people in Boston talk about Asian drivers is so casually racist and nobody calls it out.,Asian,negative,stereotyping,14922,187,4565
+492,twitter,2026-05-30,user_anon_0492,"Growing up as the only Malaysian kid in Detroit meant constant jokes. That trauma doesn't disappear.",Asian,negative,childhood_trauma,9576,1824,2065
+493,twitter,2025-10-12,user_anon_0493,"White coworker does yoga — 'so enlightened.' Usha does it — 'so stereotypical.' Make it make sense.",Indian,negative,double_standards,1926,1145,814
+494,twitter,2025-10-18,user_anon_0494,Desi parents in Pittsburgh started a support group for other immigrant parents navigating the school system. Beautiful.,Indian,positive,community_support,7763,2723,206
+495,twitter,2026-01-22,user_anon_0495,Immigration policy debate around H1B reform affecting Memphis tech sector heating up. Both sides have points.,Indian,neutral,policy_discussion,1251,549,238
+496,twitter,2026-02-07,user_anon_0496,The bamboo ceiling is real. Indonesian Americans are the least likely to be promoted to management at a leading pharma company.,Asian,negative,workplace_discrimination,6727,1507,1687
+497,twitter,2025-10-27,user_anon_0497,Got called a slur on a public bus in Pittsburgh today. Driver heard and kept driving. What do you even do?,Indian,negative,verbal_abuse,6856,1591,181
+498,twitter,2026-03-04,user_anon_0498,"So proud of Phoenix's Asian American Chamber of Commerce for mentoring 10000+ small businesses this year.",Asian,positive,entrepreneurship,18175,5590,5317
+499,twitter,2026-02-01,user_anon_0499,Three generations of my Chinese American family voted together today in Dallas. Democracy in action.,Asian,positive,civic_engagement,8452,2275,389
+500,twitter,2025-12-03,user_anon_0500,Academic conference at UCLA exploring the history of Indian labor migration to the Americas.,Indian,neutral,academic_discourse,195,24,74
