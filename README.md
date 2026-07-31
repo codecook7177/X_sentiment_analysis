@@ -4,12 +4,12 @@
 ![NLP](https://img.shields.io/badge/NLP-VADER%20%7C%20TextBlob-orange)
 ![Data Science](https://img.shields.io/badge/Data%20Science-Pandas%20%7C%20Scikit--Learn-green)
 
-## 📌 Project Overview
-Traditional, off-the-shelf sentiment analysis tools frequently fail to detect the complex, highly contextual nuances of modern digital hate speech and racism. This project develops a heavily domain-adapted, culturally aware sentiment analysis pipeline specifically targeted at analyzing racist discourse directed towards the Indian and Asian communities on Twitter (X). 
+##  Project Overview
+Traditional, off-the-shelf sentiment analysis tools frequently fail to detect the complex, highly contextual nuances of modern digital hate speech and racism. This project develops a culturally aware sentiment analysis pipeline specifically targeted at analyzing racist discourse directed towards the Indian and Asian communities on Twitter (X). 
 
 By extending standard Natural Language Processing (NLP) lexicons and introducing a hybrid emotion detection framework, this project successfully maps the emotional texture, thematic categories, and platform engagement mechanics of digital xenophobia.
 
-## 🚀 Key Features & Methodology
+## Key Features & Methodology
 This project processes data through a custom 3-phase NLP pipeline:
 
 1. **Domain-Adapted Sentiment Classification (Phase 1)**
@@ -22,11 +22,11 @@ This project processes data through a custom 3-phase NLP pipeline:
    * **Subjectivity Analysis:** Utilized TextBlob to determine if hate speech is linguistically framed as factual statements or subjective opinions.
    * **TF-IDF Vectorization:** Extracted distinctive vocabulary fingerprints for different types of discourse, visualized via WordClouds.
 
-## 📊 Critical Findings
+## Critical Findings
 * **The Engagement Paradox:** Through statistical correlation of platform metrics (likes, retweets, replies), we empirically proved that highly toxic, controversial content receives disproportionately higher algorithmic amplification (replies/retweets) compared to positive solidarity discourse, which primarily accumulates passive "likes".
 * **Target Group Disparities:** The analysis revealed that anti-Indian racism is heavily concentrated in workplace discrimination and tech-industry stereotypes, while anti-Asian racism is more closely associated with physical violence and cultural erasure narratives.
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **Language:** Python 3.12
 * **NLP & Text Mining:** NLTK (VADER), TextBlob, NRCLex, Regular Expressions (RegEx)
 * **Machine Learning & Analytics:** Scikit-Learn (TF-IDF Vectorizer), Pandas, NumPy
